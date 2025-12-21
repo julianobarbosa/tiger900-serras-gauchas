@@ -15,7 +15,7 @@ Roteiro completo de 20 dias pelas Serras Gaúchas, com integração Garmin e My 
 
 ## 🗺️ Trechos Principais
 
-Serra do Rio do Rastro • Serra do Corvo Branco • Cânions de Cambará do Sul • Vale dos Vinhedos • Rota Romântica
+Serra do Rio do Rastro • Serra do Corvo Branco • Cânions de Cambará do Sul • Vale dos Vinhedos •
 
 ## 💰 Custos Estimados
 
