@@ -1,13 +1,13 @@
 # 🏍️ Triumph Tiger 900 Rally Pro – Serras Gaúchas Adventure 2026
 
-Roteiro completo de 20 dias pelas Serras Gaúchas com integração Garmin e My Triumph App.
+Roteiro completo de 20 dias pelas Serras Gaúchas, com integração Garmin e My Triumph App.
 
 ## 📦 Estrutura
 
-- 📊 `Roteiro_Tiger900_SerrasGauchas.xlsx` – planilha de custos, hospedagem e abastecimento
-- 🗺️ `Rotas_Tiger900RallyPro` – arquivos GPX (ida, volta e completa)
-- 🌐 `Links_Triumph_MyApp.txt` – links Google Maps e My Triumph App
-- 📷 `assets/` – imagens e mapas
+- 📊 `assets/Roteiro_Tiger900_SerrasGauchas.xlsx` – planilha de custos, hospedagem e abastecimento
+- 🗺️ `Rotas_Tiger900RallyPro/` – arquivos GPX (ida, volta e completa)
+- 🌐 `assets/Links_Triumph_MyApp.txt` – links Google Maps e My Triumph App
+- 📷 `assets/` – imagens e mapas de apoio
 
 ## 📅 Duração
 
@@ -15,15 +15,17 @@ Roteiro completo de 20 dias pelas Serras Gaúchas com integração Garmin e My T
 
 ## 🗺️ Trechos Principais
 
-Serra do Rio do Rastro • Serra do Corvo Branco • Cânions de Cambará do Sul • Vale dos Vinhedos
+Serra do Rio do Rastro • Serra do Corvo Branco • Cânions de Cambará do Sul • Vale dos Vinhedos • Rota Romântica
 
 ## 💰 Custos Estimados
 
-- Hospedagem: R$ 4.910
-- Alimentação: R$ 2.700
-- Combustível: R$ 1.460
-- Extras: R$ 500  
-  **Total: R$ 9.570**
+| Categoria          | Valor (R$) |
+| ------------------ | ---------- |
+| Hospedagem         | 4.910      |
+| Alimentação        | 2.700      |
+| Combustível        | 1.460      |
+| Extras             | 500        |
+| **Total estimado** | **9.570**  |
 
 ## 🔧 Garmin
 
@@ -31,7 +33,7 @@ Copie os arquivos `.gpx` para `/Garmin/GPX/` e sincronize com BaseCamp.
 
 ## 🔗 My Triumph App
 
-Abra `Links_Triumph_MyApp.txt` e envie as rotas diretamente via Bluetooth.
+Abra `assets/Links_Triumph_MyApp.txt` e envie as rotas via Bluetooth para o painel TFT.
 
 ---
 

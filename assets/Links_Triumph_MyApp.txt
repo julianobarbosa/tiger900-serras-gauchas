@@ -1,0 +1,8 @@
+Rota Completa:
+https://www.google.com/maps/dir/Goiânia+GO/Uberaba+MG/Ourinhos+SP/Ponta+Grossa+PR/Lages+SC/Urubici+SC/Bom+Jardim+da+Serra+SC/São+Joaquim+SC/Cambará+do+Sul+RS/Gramado+RS/Bento+Gonçalves+RS/Nova+Petrópolis+RS/Vacaria+RS/Curitiba+PR/Londrina+PR/Goiânia+GO/
+
+Rota de Ida:
+https://www.google.com/maps/dir/Goiânia+GO/Uberaba+MG/Ourinhos+SP/Ponta+Grossa+PR/Lages+SC/Urubici+SC/
+
+Rota de Volta:
+https://www.google.com/maps/dir/Gramado+RS/Vacaria+RS/Curitiba+PR/Londrina+PR/Goiânia+GO/
