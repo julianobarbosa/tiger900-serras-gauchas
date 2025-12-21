@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Expedia Travel Assistant" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Rota Cênica Completa - Goiânia às Serras Gaúchas</name>
+    <author>Juliano M. Barbosa</author>
+    <desc>Viagem de 20 dias de moto - Triumph Tiger 900 Rally Pro 2025</desc>
+  </metadata>
+  <trk>
+    <name>Rota Cênica Completa</name>
+    <trkseg>
+      <trkpt lat="-16.6869" lon="-49.2648"><name>Goiânia - GO</name></trkpt>
+      <trkpt lat="-19.7500" lon="-47.9318"><name>Uberaba - MG</name></trkpt>
+      <trkpt lat="-22.9797" lon="-49.8708"><name>Ourinhos - SP</name></trkpt>
+      <trkpt lat="-25.0945" lon="-50.1619"><name>Ponta Grossa - PR</name></trkpt>
+      <trkpt lat="-27.8170" lon="-50.3264"><name>Lages - SC</name></trkpt>
+      <trkpt lat="-28.0150" lon="-49.5920"><name>Urubici - SC (Serra do Corvo Branco)</name></trkpt>
+      <trkpt lat="-28.3606" lon="-49.5733"><name>Bom Jardim da Serra - SC (Serra do Rio do Rastro)</name></trkpt>
+      <trkpt lat="-28.2901" lon="-49.9300"><name>São Joaquim - SC</name></trkpt>
+      <trkpt lat="-29.0450" lon="-50.1467"><name>Cambará do Sul - RS (Cânions Fortaleza e Itaimbezinho)</name></trkpt>
+      <trkpt lat="-29.3730" lon="-50.8761"><name>Gramado - RS</name></trkpt>
+      <trkpt lat="-29.1690" lon="-51.5170"><name>Bento Gonçalves - RS (Vale dos Vinhedos)</name></trkpt>
+      <trkpt lat="-29.3729" lon="-51.1135"><name>Nova Petrópolis - RS (Rota Romântica)</name></trkpt>
+      <trkpt lat="-28.5076" lon="-50.9370"><name>Vacaria - RS</name></trkpt>
+      <trkpt lat="-25.4284" lon="-49.2733"><name>Curitiba - PR</name></trkpt>
+      <trkpt lat="-23.3045" lon="-51.1696"><name>Londrina - PR</name></trkpt>
+      <trkpt lat="-16.6869" lon="-49.2648"><name>Retorno a Goiânia - GO</name></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Expedia Travel Assistant" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Rota de Volta - Asfaltada</name>
+    <desc>Retorno de Gramado até Goiânia pela rota mais segura e pavimentada.</desc>
+  </metadata>
+  <trk>
+    <name>Volta - Gramado a Goiânia</name>
+    <trkseg>
+      <trkpt lat="-29.3730" lon="-50.8761"><name>Gramado - RS</name></trkpt>
+      <trkpt lat="-28.5076" lon="-50.9370"><name>Vacaria - RS</name></trkpt>
+      <trkpt lat="-25.4284" lon="-49.2733"><name>Curitiba - PR</name></trkpt>
+      <trkpt lat="-23.3045" lon="-51.1696"><name>Londrina - PR</name></trkpt>
+      <trkpt lat="-22.9797" lon="-49.8708"><name>Ourinhos - SP</name></trkpt>
+      <trkpt lat="-19.7500" lon="-47.9318"><name>Uberaba - MG</name></trkpt>
+      <trkpt lat="-16.6869" lon="-49.2648"><name>Goiânia - GO</name></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
