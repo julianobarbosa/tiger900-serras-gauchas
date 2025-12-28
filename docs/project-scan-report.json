@@ -1,0 +1,107 @@
+{
+  "workflow_version": "1.2.0",
+  "timestamps": {
+    "started": "2025-12-28T18:42:00Z",
+    "last_updated": "2025-12-28T18:52:00Z"
+  },
+  "mode": "initial_scan",
+  "scan_level": "exhaustive",
+  "project_root": "/Users/juliano.barbosa/Repos/github/tiger900-serras-gauchas/.worktrees/add-fabric-guide",
+  "output_folder": "/Users/juliano.barbosa/Repos/github/tiger900-serras-gauchas/.worktrees/add-fabric-guide/docs",
+  "project_types": [
+    {
+      "part_id": "main",
+      "project_type_id": "data",
+      "display_name": "Repositório de Dados de Viagem"
+    }
+  ],
+  "project_classification": {
+    "name": "Triumph Tiger 900 Rally Pro – Serras Gaúchas Adventure 2026",
+    "repository_type": "monolith",
+    "primary_type": "data",
+    "technologies": ["GPX", "XLSX", "Markdown"],
+    "purpose": "Roteiro de viagem de moto de 20 dias pelas Serras Gaúchas",
+    "period": "19/01/2026 - 02/02/2026"
+  },
+  "completed_steps": [
+    {
+      "step": "step_1",
+      "status": "completed",
+      "timestamp": "2025-12-28T18:42:00Z",
+      "summary": "Classificado como monolith tipo data - repositório de dados de viagem"
+    },
+    {
+      "step": "step_2",
+      "status": "completed",
+      "timestamp": "2025-12-28T18:43:00Z",
+      "summary": "Encontrados 2 READMEs, 1 planilha, 3 GPX, 1 arquivo de links"
+    },
+    {
+      "step": "step_3",
+      "status": "completed",
+      "timestamp": "2025-12-28T18:44:00Z",
+      "summary": "Stack: GPX 1.1, XLSX, Markdown, Google Maps URLs"
+    },
+    {
+      "step": "step_4",
+      "status": "completed",
+      "timestamp": "2025-12-28T18:45:00Z",
+      "summary": "Análise condicional - projeto de dados, sem APIs/código"
+    },
+    {
+      "step": "step_5",
+      "status": "completed",
+      "timestamp": "2025-12-28T18:46:00Z",
+      "summary": "Árvore de fontes documentada"
+    },
+    {
+      "step": "step_6",
+      "status": "completed",
+      "timestamp": "2025-12-28T18:46:30Z",
+      "summary": "Guia de uso gerado (Garmin, My Triumph App)"
+    },
+    {
+      "step": "step_8",
+      "status": "completed",
+      "timestamp": "2025-12-28T18:47:00Z",
+      "summary": "Documentação de arquitetura/visão geral gerada"
+    },
+    {
+      "step": "step_9",
+      "status": "completed",
+      "timestamp": "2025-12-28T18:47:30Z",
+      "summary": "Documentação de suporte gerada"
+    },
+    {
+      "step": "step_10",
+      "status": "completed",
+      "timestamp": "2025-12-28T18:48:00Z",
+      "summary": "Índice mestre gerado"
+    }
+  ],
+  "current_step": "step_11",
+  "findings": {
+    "project_classification": "Monolith data project - roteiro de viagem de moto",
+    "existing_docs": "2 READMEs encontrados",
+    "data_files": "3 GPX, 1 XLSX, 1 TXT com links",
+    "technology_stack": "GPX 1.1, Excel, Markdown, Google Maps"
+  },
+  "outputs_generated": [
+    "project-scan-report.json",
+    "project-overview.md",
+    "source-tree-analysis.md",
+    "data-inventory.md",
+    "usage-guide.md",
+    "index.md",
+    "camping-option.md",
+    "checklist-viagem.md",
+    "roteiro-dia-a-dia.md",
+    "guia-emergencias.md",
+    "pontos-interesse.md",
+    "guia-gastronomico.md",
+    "manutencao-viagem.md",
+    "guia-clima.md",
+    "dicas-fotografia.md"
+  ],
+  "resume_instructions": "Workflow completo - 15 documentos gerados"
+}
