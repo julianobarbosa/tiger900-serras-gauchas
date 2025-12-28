@@ -1,39 +1,61 @@
 # Roteiro Dia-a-Dia - Serras Gaúchas 2026
 
-## Visão Geral
+## Visao Geral
 
-| Informação | Valor |
+| Informacao | Valor |
 |------------|-------|
-| **Período** | 19/01/2026 (Dom) → 02/02/2026 (Seg) |
-| **Duração** | 20 dias / 19 noites |
-| **Distância Total** | ~3.500 km |
-| **Média Diária** | 175 km |
+| **Periodo** | 19/01/2026 (Dom) → 02/02/2026 (Dom) |
+| **Duracao** | 15 dias / 14 noites |
+| **Distancia Total** | ~3.200 km |
+| **Media Diaria** | 213 km |
 
 ---
 
-## Fase 1: Deslocamento Goiânia → Serras (Dias 1-5)
+## Resumo Executivo
+
+| Dia | Data | Trecho | Km | Tipo |
+|-----|------|--------|----|----|
+| 1 | 19/01 Dom | Goiania → Uberaba | 380 | Deslocamento |
+| 2 | 20/01 Seg | Uberaba → Ourinhos | 360 | Deslocamento |
+| 3 | 21/01 Ter | Ourinhos → Ponta Grossa | 350 | Deslocamento |
+| 4 | 22/01 Qua | Ponta Grossa → Urubici | 380 | Deslocamento |
+| 5 | 23/01 Qui | Urubici (Corvo Branco + Pedra Furada) | 60 | **Exploracao** |
+| 6 | 24/01 Sex | Urubici → Bom Jardim + Rio do Rastro | 80 | **CLIMAX** |
+| 7 | 25/01 Sab | Bom Jardim → Cambara do Sul | 180 | Transicao |
+| 8 | 26/01 Dom | Cambara do Sul (Canions) | 60 | **Exploracao** |
+| 9 | 27/01 Seg | Cambara → Bento Goncalves | 180 | Serra Gaucha |
+| 10 | 28/01 Ter | Bento (Vale dos Vinhedos) | 40 | **Vinicolas** |
+| 11 | 29/01 Qua | Bento → Curitiba | 430 | Retorno |
+| 12 | 30/01 Qui | Curitiba (descanso + explorar) | - | **Folga** |
+| 13 | 31/01 Sex | Curitiba → Ourinhos | 400 | Retorno |
+| 14 | 01/02 Sab | Ourinhos → Uberaba | 360 | Retorno |
+| 15 | 02/02 Dom | Uberaba → Goiania | 380 | Retorno |
+
+---
+
+## Fase 1: Deslocamento Goiania → Serras (Dias 1-4)
 
 ### Dia 1 - Domingo, 19/01/2026
-**Goiânia - GO → Uberaba - MG**
+**Goiania - GO → Uberaba - MG**
 
 | Item | Detalhe |
 |------|---------|
-| **Distância** | ~380 km |
+| **Distancia** | ~380 km |
 | **Tempo estimado** | 5h |
 | **Rodovias** | BR-050, BR-262 |
-| **Saída sugerida** | 06:00 |
+| **Saida sugerida** | 06:00 |
 | **Chegada estimada** | 12:00 |
 
 **Roteiro:**
-- 06:00 - Saída de Goiânia (tanque cheio)
-- 08:30 - Parada em Itumbiara (café + combustível)
+- 06:00 - Saida de Goiania (tanque cheio)
+- 08:30 - Parada em Itumbiara (cafe + combustivel)
 - 10:30 - Parada em Frutal (descanso)
 - 12:00 - Chegada em Uberaba
 
 **Dicas:**
 - Trecho tranquilo, rodovia duplicada
-- Atenção aos radares na saída de Goiânia
-- Uberaba é conhecida pelo Zebu - visite o ABCZ se tiver tempo
+- Atencao aos radares na saida de Goiania
+- Uberaba e conhecida pelo Zebu - visite o ABCZ se tiver tempo
 
 ---
 
@@ -42,453 +64,368 @@
 
 | Item | Detalhe |
 |------|---------|
-| **Distância** | ~360 km |
+| **Distancia** | ~360 km |
 | **Tempo estimado** | 5h |
 | **Rodovias** | BR-262, SP-294, SP-270 |
-| **Saída sugerida** | 07:00 |
+| **Saida sugerida** | 07:00 |
 | **Chegada estimada** | 13:00 |
 
 **Roteiro:**
-- 07:00 - Saída de Uberaba
-- 09:30 - Parada em Ribeirão Preto (café)
-- 11:30 - Parada em Marília (combustível)
+- 07:00 - Saida de Uberaba
+- 09:30 - Parada em Ribeirao Preto (cafe)
+- 11:30 - Parada em Marilia (combustivel)
 - 13:00 - Chegada em Ourinhos
 
 **Dicas:**
 - Rodovias paulistas excelentes
-- Pedágios frequentes (reserve ~R$ 50)
-- Ourinhos tem boas opções de hospedagem
+- Pedagios frequentes (reserve ~R$ 50)
+- Ourinhos tem boas opcoes de hospedagem
 
 ---
 
-### Dia 3 - Terça, 21/01/2026
+### Dia 3 - Terca, 21/01/2026
 **Ourinhos - SP → Ponta Grossa - PR**
 
 | Item | Detalhe |
 |------|---------|
-| **Distância** | ~350 km |
+| **Distancia** | ~350 km |
 | **Tempo estimado** | 5h |
 | **Rodovias** | BR-153, PR-151 |
-| **Saída sugerida** | 07:00 |
+| **Saida sugerida** | 07:00 |
 | **Chegada estimada** | 13:00 |
 
 **Roteiro:**
-- 07:00 - Saída de Ourinhos
+- 07:00 - Saida de Ourinhos
 - 09:00 - Divisa SP/PR
-- 10:30 - Parada em Jaguariaíva (café)
+- 10:30 - Parada em Jaguariaiva (cafe)
 - 13:00 - Chegada em Ponta Grossa
 
-**Pontos de Interesse:**
-- **Parque Estadual de Vila Velha** - Formações rochosas únicas
-- **Buraco do Padre** - Furna com cachoeira (500m do camping)
-- **Capão da Onça** - Trilhas e cachoeiras
+**Pontos de Interesse (opcional - se chegar cedo):**
+- **Parque Estadual de Vila Velha** - Formacoes rochosas unicas
+- **Buraco do Padre** - Furna com cachoeira
 
 **Dicas:**
-- Reserve a tarde para Vila Velha ou Buraco do Padre
-- Se acampar, Camping Portal dos Campos Gerais fica perto do Buraco do Padre
+- Se tiver tempo, visite Vila Velha a tarde
+- Camping Portal dos Campos Gerais fica perto do Buraco do Padre
 
 ---
 
 ### Dia 4 - Quarta, 22/01/2026
-**Ponta Grossa - PR → Lages - SC**
+**Ponta Grossa - PR → Urubici - SC**
 
 | Item | Detalhe |
 |------|---------|
-| **Distância** | ~340 km |
-| **Tempo estimado** | 5h |
-| **Rodovias** | BR-376, BR-116 |
-| **Saída sugerida** | 07:00 |
+| **Distancia** | ~380 km |
+| **Tempo estimado** | 6h (estrada serrana) |
+| **Rodovias** | BR-376, BR-116, SC-438 |
+| **Saida sugerida** | 06:00 |
 | **Chegada estimada** | 13:00 |
 
 **Roteiro:**
-- 07:00 - Saída de Ponta Grossa
-- 09:30 - Parada em Lapa (café + centro histórico)
-- 11:00 - Divisa PR/SC
-- 13:00 - Chegada em Lages
+- 06:00 - Saida de Ponta Grossa
+- 08:00 - Parada em Lapa (cafe rapido)
+- 10:00 - Passagem por Lages (combustivel)
+- 13:00 - Chegada em Urubici
 
 **Dicas:**
-- Entrando na região serrana - temperatura começa a cair
-- Lages é a "Capital Nacional do Pinhão"
-- Experimente o pinhão assado e o entrevero
+- Dia mais longo, saida cedo obrigatoria
+- Entrando na regiao serrana - temperatura cai
+- Urubici: noites frias mesmo no verao (5-10°C)
+- Prepare segunda pele termica
 
 ---
 
+## Fase 2: Serras Catarinenses (Dias 5-6)
+
 ### Dia 5 - Quinta, 23/01/2026
-**Lages - SC → Urubici - SC**
+**Urubici - SC (Dia de Exploracao)**
 
 | Item | Detalhe |
 |------|---------|
-| **Distância** | ~110 km |
-| **Tempo estimado** | 2h30 (curvas!) |
-| **Rodovias** | SC-438, SC-370 |
-| **Saída sugerida** | 08:00 |
-| **Chegada estimada** | 11:00 |
-
-**Roteiro:**
-- 08:00 - Saída de Lages
-- 09:30 - Parada no Morro da Igreja (ponto mais alto de SC - 1.822m)
-- 11:00 - Chegada em Urubici
+| **Distancia** | ~60 km (passeios) |
+| **Atividades** | Serra do Corvo Branco + Pedra Furada |
 
 **DESTAQUE: Serra do Corvo Branco**
-- Altitude: 1.140m no ponto mais alto
-- 8 km de estrada sinuosa com vistas espetaculares
-- Acesso pelo Parque Altos do Corvo Branco (R$ 80/pessoa)
-- **ATENÇÃO:** Lado Grão-Pará fechado até março/2026
 
-**Dicas:**
-- Dia curto para aproveitar as atrações
-- Visite a Pedra Furada (cartão postal)
-- Noites frias mesmo no verão (5-10°C)
+> **ATENCAO:** O trecho Corvo Branco → Grao-Para esta FECHADO ate marco/2026.
+> Acesso liberado: Urubici → Corte em Rocha (mirantes) - ida e volta.
+
+| Informacao | Detalhe |
+|------------|---------|
+| **Altitude maxima** | 1.140m |
+| **Extensao acessivel** | ~8 km (ida e volta) |
+| **Ingresso** | R$ 80/pessoa (Parque Altos do Corvo Branco) |
+
+**Roteiro sugerido:**
+- 08:00 - Saida para Serra do Corvo Branco
+- 09:00 - Chegada no Parque Altos do Corvo Branco
+- 09:30-11:30 - Mirantes e fotos (vista do Vale do Rio Canoas)
+- 12:00 - Retorno a Urubici
+- 13:00 - Almoco
+- 15:00 - Trilha da Pedra Furada (1,5 km - facil)
+- 17:00 - Por do sol na Pedra Furada (melhor luz!)
+- 19:00 - Jantar em Urubici
+
+**Outras opcoes em Urubici:**
+- Morro da Igreja (ponto mais alto de SC - 1.822m)
+- Cascata Veu de Noiva (62m)
 
 ---
-
-## Fase 2: Serras Catarinenses (Dias 6-9)
 
 ### Dia 6 - Sexta, 24/01/2026
 **Urubici - SC → Bom Jardim da Serra - SC**
 
 | Item | Detalhe |
 |------|---------|
-| **Distância** | ~50 km |
-| **Tempo estimado** | 2h (muitas paradas) |
-| **Rodovias** | SC-370, SC-438 |
-| **Saída sugerida** | 08:00 |
+| **Distancia** | ~80 km |
+| **Tempo estimado** | 3h (muitas paradas!) |
+| **Rodovias** | SC-430, SC-438 (Rota Alta) |
+| **Saida sugerida** | 08:00 |
 | **Chegada estimada** | 12:00 |
 
+**ROTA:** Urubici → SC-430 → SC-438 → Bom Jardim da Serra
+
+> **NOTA:** Esta rota contorna o trecho fechado do Corvo Branco.
+
 **DESTAQUE: Serra do Rio do Rastro**
-- Uma das estradas mais bonitas do Brasil
-- 284 curvas em 32 km
-- Desnível de 1.400 metros
-- Mirantes espetaculares
+
+Uma das estradas mais bonitas do Brasil!
+
+| Informacao | Detalhe |
+|------------|---------|
+| **Curvas** | 284 |
+| **Desnivel** | 1.400 metros |
+| **Extensao** | 32 km |
 
 **Roteiro:**
-- 08:00 - Saída de Urubici
-- 09:00 - Início da descida da Serra do Rio do Rastro
-- 10:30 - Parada nos mirantes (fotos!)
-- 12:00 - Chegada em Bom Jardim da Serra
+- 08:00 - Saida de Urubici pela SC-430
+- 10:00 - Chegada em Bom Jardim da Serra
+- 10:30 - Inicio da DESCIDA da Serra do Rio do Rastro
+- 11:30-12:30 - Paradas nos mirantes (fotos!)
+- 13:00 - Retorno subindo a serra (opcional)
+- 14:00 - Almoco em Bom Jardim
 
 **Dicas:**
-- Faça a descida de manhã (menos neblina)
-- Cuidado com caminhões nas curvas
-- Vista incrível para fotos/vídeos
+- Faca a descida de MANHA (menos neblina)
+- Cuidado com caminhoes nas curvas
+- Vista incrivel para fotos/videos
+- Mirantes obrigatorios: Mirante da Serra (topo), Mirante das Curvas
 
 ---
 
-### Dia 7 - Sábado, 25/01/2026
-**Bom Jardim da Serra - SC → São Joaquim - SC**
+## Fase 3: Canions e Serra Gaucha (Dias 7-10)
+
+### Dia 7 - Sabado, 25/01/2026
+**Bom Jardim da Serra - SC → Cambara do Sul - RS**
 
 | Item | Detalhe |
 |------|---------|
-| **Distância** | ~80 km |
-| **Tempo estimado** | 2h |
-| **Rodovias** | SC-438, SC-114 |
-| **Saída sugerida** | 09:00 |
-| **Chegada estimada** | 12:00 |
+| **Distancia** | ~180 km |
+| **Tempo estimado** | 4h |
+| **Rodovias** | SC-438, SC-114, RS-020 |
+| **Saida sugerida** | 08:00 |
+| **Chegada estimada** | 13:00 |
 
 **Roteiro:**
-- 09:00 - Saída de Bom Jardim
-- 10:30 - Parada em mirante (vista do vale)
-- 12:00 - Chegada em São Joaquim
+- 08:00 - Saida de Bom Jardim
+- 10:00 - Passagem por Sao Joaquim (parada rapida - cafe)
+- 11:30 - Divisa SC/RS
+- 13:00 - Chegada em Cambara do Sul
 
-**São Joaquim - Cidade mais fria do Brasil:**
-- Altitude: 1.360m
-- Temperaturas podem chegar a -7°C no inverno
-- No verão (janeiro): 10-20°C
-- Famosa pelas maçãs e vinhos de altitude
-
-**Pontos de Interesse:**
-- Vinícola Villa Francioni
-- Vinícola Villaggio Grando
-- Morro da Igreja (pico mais alto de SC)
-
-**Dica:** Camping Municipal Parque da Maçã é GRATUITO!
+**Sao Joaquim (parada rapida):**
+- Cidade mais fria do Brasil (altitude 1.360m)
+- Famosa pelas macas e vinhos de altitude
+- Se quiser estender: Vinicola Villa Francioni
 
 ---
 
 ### Dia 8 - Domingo, 26/01/2026
-**São Joaquim - SC (Dia de Exploração)**
+**Cambara do Sul - RS (Dia nos Canions)**
 
 | Item | Detalhe |
 |------|---------|
-| **Distância** | ~100 km (ida e volta) |
-| **Atividades** | Vinícolas, mirantes, trilhas |
+| **Distancia** | ~60 km (ida e volta aos parques) |
+| **Atividades** | Trilhas nos canions |
+
+**DESTAQUE: Canions**
+
+| Canion | Profundidade | Destaque |
+|--------|--------------|----------|
+| **Itaimbezinho** | 720m | Maior do Brasil |
+| **Fortaleza** | 900m | Vistas mais dramaticas |
+
+**Ingresso 2025:** R$ 193,80/casal (valido 7 dias para ambos parques)
 
 **Roteiro sugerido:**
-- 09:00 - Visita à Vinícola Villa Francioni (degustação)
-- 11:30 - Almoço em São Joaquim
-- 14:00 - Trilha na região
-- 17:00 - Pôr do sol no mirante
-- 19:00 - Jantar com fondue
+- 07:00 - Saida cedo para Itaimbezinho
+- 08:00-12:00 - Trilhas Itaimbezinho
+  - Trilha do Vertice (1,4 km) - Facil
+  - Trilha do Cotovelo (6 km) - Moderada (IMPERDIVEL!)
+- 12:30 - Almoco
+- 14:00-17:00 - Canion Fortaleza
+- 18:00 - Retorno a Cambara
+
+**ATENCAO:** Tirolesa Fortaleza fechada desde maio/2024
+
+**Dicas:**
+- Chegar cedo (neblina comum de manha)
+- Levar capa de chuva para trilhas
+- Melhor luz para fotos: 09h-11h
 
 ---
 
 ### Dia 9 - Segunda, 27/01/2026
-**São Joaquim - SC → Cambará do Sul - RS**
+**Cambara do Sul - RS → Bento Goncalves - RS**
 
 | Item | Detalhe |
 |------|---------|
-| **Distância** | ~180 km |
+| **Distancia** | ~180 km |
 | **Tempo estimado** | 4h |
-| **Rodovias** | SC-114, RS-020 |
-| **Saída sugerida** | 07:00 |
-| **Chegada estimada** | 12:00 |
+| **Rodovias** | RS-020, Rota do Sol, RS-470 |
+| **Saida sugerida** | 08:00 |
+| **Chegada estimada** | 13:00 |
 
 **Roteiro:**
-- 07:00 - Saída de São Joaquim
-- 09:00 - Divisa SC/RS
-- 10:30 - Parada em Bom Jesus (café)
-- 12:00 - Chegada em Cambará do Sul
+- 08:00 - Saida de Cambara
+- 09:30 - Parada em Sao Jose dos Ausentes (cafe)
+- 11:00 - Descida pela Rota do Sol (paisagens!)
+- 13:00 - Chegada em Bento Goncalves
 
-**DESTAQUE: Cânions**
-- **Itaimbezinho** - O maior cânion do Brasil (720m profundidade)
-- **Fortaleza** - Vistas mais dramáticas
-- Ingresso 2025: R$ 193,80/casal (válido 7 dias para ambos parques)
-
-**ATENÇÃO:** Tirolesa Fortaleza fechada desde maio/2024
+**DESTAQUE: Vale dos Vinhedos**
+- Principal regiao vinicola do Brasil
+- Mais de 30 vinicolas
+- Paisagem toscana brasileira
 
 ---
 
-## Fase 3: Serra Gaúcha (Dias 10-14)
-
-### Dia 10 - Terça, 28/01/2026
-**Cambará do Sul - RS (Dia nos Cânions)**
+### Dia 10 - Terca, 28/01/2026
+**Bento Goncalves - RS (Dia nas Vinicolas)**
 
 | Item | Detalhe |
 |------|---------|
-| **Distância** | ~60 km (ida e volta aos parques) |
-| **Atividades** | Trilhas nos cânions |
+| **Distancia** | ~40 km (circulando pelas vinicolas) |
+| **Atividades** | Tour de vinicolas |
+
+**Vinicolas recomendadas:**
+
+| Vinicola | Destaque | Tour + Degustacao |
+|----------|----------|-------------------|
+| **Casa Valduga** | Estrutura completa, restaurante | R$ 80-120 |
+| **Miolo** | Maior produtora | R$ 60-90 |
+| **Pizzato** | Melhores tintos | R$ 70-100 |
+| **Cave Geisse** | Espumantes metodo tradicional | R$ 70-100 |
 
 **Roteiro sugerido:**
-- 07:00 - Saída cedo para Itaimbezinho
-- 08:00-12:00 - Trilhas Itaimbezinho (Vértice, Cotovelo)
-- 12:30 - Almoço
-- 14:00-17:00 - Cânion Fortaleza
-- 18:00 - Retorno a Cambará
-
-**Trilhas Itaimbezinho:**
-- Trilha do Vértice (1,4 km) - Fácil
-- Trilha do Cotovelo (6 km) - Moderada
-- Trilha do Rio do Boi (8 km) - Difícil (guia obrigatório)
+- 09:00 - Cave Geisse (espumantes)
+- 11:30 - Almoco na Casa Valduga
+- 14:00 - Miolo (estrutura)
+- 16:00 - Pizzato (tintos)
+- 19:00 - Jantar italiano em Bento
 
 ---
 
+## Fase 4: Retorno (Dias 11-15)
+
 ### Dia 11 - Quarta, 29/01/2026
-**Cambará do Sul - RS → Gramado - RS**
+**Bento Goncalves - RS → Curitiba - PR**
 
 | Item | Detalhe |
 |------|---------|
-| **Distância** | ~130 km |
-| **Tempo estimado** | 3h |
-| **Rodovias** | RS-020, Rota do Sol |
-| **Saída sugerida** | 08:00 |
-| **Chegada estimada** | 12:00 |
+| **Distancia** | ~430 km |
+| **Tempo estimado** | 6h30 |
+| **Rodovias** | RS-470, BR-116 |
+| **Saida sugerida** | 06:00 |
+| **Chegada estimada** | 13:30 |
 
 **Roteiro:**
-- 08:00 - Saída de Cambará
-- 09:30 - Parada em São José dos Ausentes (café)
-- 11:00 - Descida pela Rota do Sol (paisagens!)
-- 12:00 - Chegada em Gramado
-
-**Gramado:**
-- Cidade turística mais famosa do RS
-- Arquitetura bávara
-- Chocolates, fondues, lojas de malhas
+- 06:00 - Saida de Bento Goncalves
+- 08:30 - Passagem por Vacaria (cafe + combustivel)
+- 10:30 - Divisa RS/SC
+- 12:00 - Divisa SC/PR
+- 13:30 - Chegada em Curitiba
 
 **Dicas:**
-- Estacionar moto pode ser difícil no centro
-- Camping Gramado fica a 5km do centro (R$ 40/pessoa)
-- Mini Mundo, Snowland, Lago Negro
+- Dia longo, saida bem cedo
+- BR-116 bem pavimentada
+- Atencao: transicao de clima (pode esfriar na serra)
 
 ---
 
 ### Dia 12 - Quinta, 30/01/2026
-**Gramado - RS → Bento Gonçalves - RS**
+**Curitiba - PR (Dia de Folga)**
 
 | Item | Detalhe |
 |------|---------|
-| **Distância** | ~80 km |
-| **Tempo estimado** | 2h |
-| **Rodovias** | RS-115, RS-470 |
-| **Saída sugerida** | 09:00 |
-| **Chegada estimada** | 12:00 |
+| **Atividades** | Descanso, turismo, revisao da moto |
 
-**DESTAQUE: Vale dos Vinhedos**
-- Principal região vinícola do Brasil
-- Mais de 30 vinícolas
-- Paisagem toscana brasileira
+**O que fazer em Curitiba:**
+- Jardim Botanico (icone da cidade)
+- Opera de Arame
+- Centro Historico (Largo da Ordem)
+- Bairro italiano de Santa Felicidade (jantar!)
 
-**Vinícolas recomendadas:**
-- Casa Valduga (estrutura completa)
-- Miolo (maior produtora)
-- Don Giovanni (vinhos autorais)
-- Pizzato (excelência em tintos)
-
-**Roteiro sugerido:**
-- 09:00 - Saída de Gramado
-- 11:00 - Chegada em Bento
-- 12:00 - Almoço em vinícola (Cave Geisse)
-- 14:00-18:00 - Tour de vinícolas
-- 20:00 - Jantar italiano
+**Manutencao da moto:**
+- [ ] Revisar pressao dos pneus
+- [ ] Lubrificar corrente
+- [ ] Verificar nivel de oleo
+- [ ] Checar pastilhas de freio
 
 ---
 
 ### Dia 13 - Sexta, 31/01/2026
-**Bento Gonçalves - RS → Nova Petrópolis - RS**
+**Curitiba - PR → Ourinhos - SP**
 
 | Item | Detalhe |
 |------|---------|
-| **Distância** | ~50 km |
-| **Tempo estimado** | 1h30 |
-| **Rodovias** | RS-470, Rota Romântica |
-| **Saída sugerida** | 10:00 |
-| **Chegada estimada** | 12:00 |
-
-**DESTAQUE: Rota Romântica**
-- 14 municípios de colonização alemã
-- Arquitetura enxaimel
-- Cafés coloniais
-
-**Nova Petrópolis:**
-- "Jardim da Serra Gaúcha"
-- Parque Aldeia do Imigrante
-- Labirinto Verde
-- Praça das Flores
+| **Distancia** | ~400 km |
+| **Tempo estimado** | 5h30 |
+| **Rodovias** | BR-376, BR-153 |
+| **Saida sugerida** | 07:00 |
+| **Chegada estimada** | 13:30 |
 
 **Roteiro:**
-- 10:00 - Saída de Bento (visita a mais uma vinícola)
-- 12:00 - Chegada em Nova Petrópolis
-- 13:00 - Almoço (café colonial!)
-- 15:00 - Passeio pelo centro e parques
-- 19:00 - Jantar
+- 07:00 - Saida de Curitiba
+- 09:00 - Parada em Ponta Grossa (cafe)
+- 11:30 - Divisa PR/SP
+- 13:30 - Chegada em Ourinhos
 
 ---
 
-### Dia 14 - Sábado, 01/02/2026
-**Nova Petrópolis - RS (Dia Livre)**
-
-| Item | Detalhe |
-|------|---------|
-| **Atividades** | Descanso, compras, revisão da moto |
-
-**Sugestões:**
-- Café colonial completo (Opa's Kaffeehaus)
-- Parque Aldeia do Imigrante
-- Compras de malhas e artesanato
-- Revisar moto para o retorno
-- Lubrificar corrente
-- Checar pressão dos pneus
-
----
-
-## Fase 4: Retorno (Dias 15-20)
-
-### Dia 15 - Domingo, 02/02/2026
-**Nova Petrópolis - RS → Vacaria - RS**
-
-| Item | Detalhe |
-|------|---------|
-| **Distância** | ~140 km |
-| **Tempo estimado** | 2h30 |
-| **Rodovias** | RS-020, BR-116 |
-| **Saída sugerida** | 08:00 |
-| **Chegada estimada** | 11:00 |
-
-**Roteiro:**
-- 08:00 - Saída de Nova Petrópolis
-- 09:30 - Parada em São Marcos (café)
-- 11:00 - Chegada em Vacaria
-
-**Vacaria:**
-- Capital Nacional da Maçã
-- Clima serrano
-- Boa base para início do retorno
-
----
-
-### Dia 16 - Segunda, 03/02/2026
-**Vacaria - RS → Curitiba - PR**
-
-| Item | Detalhe |
-|------|---------|
-| **Distância** | ~350 km |
-| **Tempo estimado** | 5h |
-| **Rodovias** | BR-116 |
-| **Saída sugerida** | 07:00 |
-| **Chegada estimada** | 13:00 |
-
-**Roteiro:**
-- 07:00 - Saída de Vacaria
-- 09:00 - Divisa RS/SC
-- 11:00 - Divisa SC/PR
-- 13:00 - Chegada em Curitiba
-
-**Curitiba:**
-- Explore o centro histórico
-- Jardim Botânico
-- Ópera de Arame
-- Bairro italiano de Santa Felicidade
-
----
-
-### Dia 17 - Terça, 04/02/2026
-**Curitiba - PR → Londrina - PR**
-
-| Item | Detalhe |
-|------|---------|
-| **Distância** | ~380 km |
-| **Tempo estimado** | 5h |
-| **Rodovias** | BR-376, BR-376 |
-| **Saída sugerida** | 07:00 |
-| **Chegada estimada** | 13:00 |
-
-**Roteiro:**
-- 07:00 - Saída de Curitiba
-- 09:00 - Parada em Ponta Grossa (café)
-- 11:00 - Parada em Apucarana (combustível)
-- 13:00 - Chegada em Londrina
-
----
-
-### Dia 18 - Quarta, 05/02/2026
-**Londrina - PR → Ourinhos - SP**
-
-| Item | Detalhe |
-|------|---------|
-| **Distância** | ~180 km |
-| **Tempo estimado** | 2h30 |
-| **Rodovias** | PR-445, SP-270 |
-| **Saída sugerida** | 08:00 |
-| **Chegada estimada** | 11:00 |
-
-**Dica:** Dia mais curto para descansar antes dos últimos trechos.
-
----
-
-### Dia 19 - Quinta, 06/02/2026
+### Dia 14 - Sabado, 01/02/2026
 **Ourinhos - SP → Uberaba - MG**
 
 | Item | Detalhe |
 |------|---------|
-| **Distância** | ~360 km |
+| **Distancia** | ~360 km |
 | **Tempo estimado** | 5h |
 | **Rodovias** | SP-270, SP-294, BR-262 |
-| **Saída sugerida** | 07:00 |
+| **Saida sugerida** | 07:00 |
 | **Chegada estimada** | 13:00 |
+
+**Roteiro:**
+- 07:00 - Saida de Ourinhos
+- 09:30 - Parada em Marilia (cafe)
+- 11:00 - Parada em Ribeirao Preto (combustivel)
+- 13:00 - Chegada em Uberaba
 
 ---
 
-### Dia 20 - Sexta, 07/02/2026
-**Uberaba - MG → Goiânia - GO**
+### Dia 15 - Domingo, 02/02/2026
+**Uberaba - MG → Goiania - GO**
 
 | Item | Detalhe |
 |------|---------|
-| **Distância** | ~380 km |
+| **Distancia** | ~380 km |
 | **Tempo estimado** | 5h |
 | **Rodovias** | BR-262, BR-050 |
-| **Saída sugerida** | 07:00 |
+| **Saida sugerida** | 07:00 |
 | **Chegada estimada** | 12:00 |
 
-**Chegada em casa!**
+**Roteiro:**
+- 07:00 - Saida de Uberaba
+- 09:00 - Parada em Frutal (cafe)
+- 10:30 - Parada em Itumbiara (combustivel)
+- 12:00 - **Chegada em Goiania!**
 
 ---
 
@@ -496,25 +433,62 @@
 
 | Fase | Dias | Km | Destaque |
 |------|------|----|---------|
-| Deslocamento ida | 1-5 | ~1.540 | Vila Velha, entrada nas serras |
-| Serras Catarinenses | 6-9 | ~410 | Rio do Rastro, Corvo Branco, Cânions |
-| Serra Gaúcha | 10-14 | ~460 | Gramado, Vinhedos, Rota Romântica |
-| Retorno | 15-20 | ~1.790 | Via asfaltada, Curitiba |
-| **Total** | **20** | **~4.200** | |
+| Deslocamento ida | 1-4 | ~1.470 | Chegada em Urubici |
+| Serras Catarinenses | 5-6 | ~140 | Corvo Branco, Rio do Rastro |
+| Canions e Serra | 7-10 | ~460 | Canions, Vinhedos |
+| Retorno | 11-15 | ~1.570 | Via Curitiba com dia de folga |
+| **Total** | **15** | **~3.200** | |
 
 ---
 
-## Horários Ideais
+## Horarios Ideais
 
-| Atividade | Horário |
+| Atividade | Horario |
 |-----------|---------|
-| Saída | 06:00-07:00 |
-| Parada café | A cada 2h |
-| Almoço | 12:00-13:00 |
-| Chegada destino | Até 14:00 |
-| Serras (curvas) | Manhã (sem neblina) |
+| Saida | 06:00-07:00 |
+| Parada cafe | A cada 2h |
+| Almoco | 12:00-13:00 |
+| Chegada destino | Ate 14:00 |
+| Serras (curvas) | Manha (sem neblina) |
 | Fotos | Golden hour (06:00-08:00, 17:00-19:00) |
 
 ---
 
-*Horários e distâncias são estimativas. Ajuste conforme seu ritmo e condições do trânsito.*
+## Rotas Alternativas de Retorno
+
+Voce tem **DUAS OPCOES** de rota de retorno a partir de Bento Goncalves:
+
+### Opcao 1: Retorno Rapido (Asfaltado) - PADRAO
+```
+Bento Goncalves → Vacaria → Curitiba → Ourinhos → Uberaba → Goiania
+```
+- **Total:** ~1.570 km em 5 dias
+- **Media:** 314 km/dia
+- **Vantagem:** Mais rapido, estradas melhores
+
+### Opcao 2: Retorno Cenico (Via Sao Jose dos Ausentes)
+```
+Bento → Sao Jose dos Ausentes → Vacaria → Lages → Curitiba → Goiania
+```
+- **Total:** ~1.700 km em 5 dias
+- **Media:** 340 km/dia
+- **Vantagem:** Paisagens incriveis, revisita a serra
+
+**Decida durante a viagem conforme seu estado de animo e cansaco!**
+
+---
+
+## Alertas Importantes
+
+| Alerta | Detalhe |
+|--------|---------|
+| Serra do Corvo Branco | Travessia fechada ate marco/2026 - acesso apenas ida/volta por Urubici |
+| Tirolesa Fortaleza | Fechada desde maio/2024 |
+| Gramado em janeiro | Lotada (alta temporada) - NAO incluida neste roteiro |
+| Neblina nas serras | Comum de manha - aguarde dissipar antes de pegar estrada |
+
+---
+
+*Roteiro otimizado para 15 dias. Horarios e distancias sao estimativas. Ajuste conforme seu ritmo.*
+
+*Ultima atualizacao: Dezembro/2025*

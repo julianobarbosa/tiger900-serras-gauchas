@@ -1,29 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.1" creator="Expedia Travel Assistant" xmlns="http://www.topografix.com/GPX/1/1">
+<gpx version="1.1" creator="PAI Travel Assistant" xmlns="http://www.topografix.com/GPX/1/1">
   <metadata>
-    <name>Rota Cênica Completa - Goiânia às Serras Gaúchas</name>
+    <name>Rota Cenica Completa - Goiania as Serras Gauchas 2026</name>
     <author>Juliano M. Barbosa</author>
-    <desc>Viagem de 20 dias de moto - Triumph Tiger 900 Rally Pro 2025</desc>
+    <desc>Viagem de 15 dias de moto - Triumph Tiger 900 Rally Pro. Roteiro otimizado considerando fechamento parcial do Corvo Branco.</desc>
+    <time>2025-12-28T00:00:00Z</time>
   </metadata>
+
   <trk>
-    <name>Rota Cênica Completa</name>
+    <name>Rota Cenica Completa - 15 dias</name>
     <trkseg>
-      <trkpt lat="-16.6869" lon="-49.2648"><name>Goiânia - GO</name></trkpt>
-      <trkpt lat="-19.7500" lon="-47.9318"><name>Uberaba - MG</name></trkpt>
-      <trkpt lat="-22.9797" lon="-49.8708"><name>Ourinhos - SP</name></trkpt>
-      <trkpt lat="-25.0945" lon="-50.1619"><name>Ponta Grossa - PR</name></trkpt>
-      <trkpt lat="-27.8170" lon="-50.3264"><name>Lages - SC</name></trkpt>
-      <trkpt lat="-28.0150" lon="-49.5920"><name>Urubici - SC (Serra do Corvo Branco)</name></trkpt>
-      <trkpt lat="-28.3606" lon="-49.5733"><name>Bom Jardim da Serra - SC (Serra do Rio do Rastro)</name></trkpt>
-      <trkpt lat="-28.2901" lon="-49.9300"><name>São Joaquim - SC</name></trkpt>
-      <trkpt lat="-29.0450" lon="-50.1467"><name>Cambará do Sul - RS (Cânions Fortaleza e Itaimbezinho)</name></trkpt>
-      <trkpt lat="-29.3730" lon="-50.8761"><name>Gramado - RS</name></trkpt>
-      <trkpt lat="-29.1690" lon="-51.5170"><name>Bento Gonçalves - RS (Vale dos Vinhedos)</name></trkpt>
-      <trkpt lat="-29.3729" lon="-51.1135"><name>Nova Petrópolis - RS (Rota Romântica)</name></trkpt>
-      <trkpt lat="-28.5076" lon="-50.9370"><name>Vacaria - RS</name></trkpt>
-      <trkpt lat="-25.4284" lon="-49.2733"><name>Curitiba - PR</name></trkpt>
-      <trkpt lat="-23.3045" lon="-51.1696"><name>Londrina - PR</name></trkpt>
-      <trkpt lat="-16.6869" lon="-49.2648"><name>Retorno a Goiânia - GO</name></trkpt>
+      <!-- FASE 1: Deslocamento (Dias 1-4) -->
+
+      <!-- Dia 1: Goiania → Uberaba (380 km) -->
+      <trkpt lat="-16.6869" lon="-49.2648">
+        <name>Dia 1 - Goiania - GO (Partida)</name>
+        <desc>Saida 06:00. Tanque cheio.</desc>
+      </trkpt>
+      <trkpt lat="-18.4097" lon="-49.2175">
+        <name>Itumbiara - GO (Parada)</name>
+        <desc>Cafe + combustivel. ~2h30 de Goiania.</desc>
+      </trkpt>
+      <trkpt lat="-19.7500" lon="-47.9318">
+        <name>Dia 1 - Uberaba - MG (Pernoite)</name>
+        <desc>Chegada ~12:00. 380 km.</desc>
+      </trkpt>
+
+      <!-- Dia 2: Uberaba → Ourinhos (360 km) -->
+      <trkpt lat="-21.1775" lon="-47.8103">
+        <name>Ribeirao Preto - SP (Parada)</name>
+        <desc>Cafe. ~2h30 de Uberaba.</desc>
+      </trkpt>
+      <trkpt lat="-22.9797" lon="-49.8708">
+        <name>Dia 2 - Ourinhos - SP (Pernoite)</name>
+        <desc>Chegada ~13:00. 360 km. Pedagios ~R$50.</desc>
+      </trkpt>
+
+      <!-- Dia 3: Ourinhos → Ponta Grossa (350 km) -->
+      <trkpt lat="-24.2547" lon="-49.9640">
+        <name>Jaguariaiva - PR (Parada)</name>
+        <desc>Cafe. Divisa SP/PR.</desc>
+      </trkpt>
+      <trkpt lat="-25.0945" lon="-50.1619">
+        <name>Dia 3 - Ponta Grossa - PR (Pernoite)</name>
+        <desc>Chegada ~13:00. 350 km. Opcional: Vila Velha a tarde.</desc>
+      </trkpt>
+
+      <!-- Dia 4: Ponta Grossa → Urubici (380 km) -->
+      <trkpt lat="-25.7697" lon="-49.7714">
+        <name>Lapa - PR (Parada)</name>
+        <desc>Cafe rapido. Centro historico.</desc>
+      </trkpt>
+      <trkpt lat="-27.8170" lon="-50.3264">
+        <name>Lages - SC (Passagem)</name>
+        <desc>Combustivel. Entrada na regiao serrana.</desc>
+      </trkpt>
+      <trkpt lat="-28.0150" lon="-49.5920">
+        <name>Dia 4 - Urubici - SC (Pernoite)</name>
+        <desc>Chegada ~13:00. 380 km. Noites frias (5-10C)!</desc>
+      </trkpt>
+
+      <!-- FASE 2: Serras Catarinenses (Dias 5-6) -->
+
+      <!-- Dia 5: Urubici - Exploracao -->
+      <trkpt lat="-28.0350" lon="-49.5100">
+        <name>Dia 5 - Serra do Corvo Branco (Ida/Volta)</name>
+        <desc>ATENCAO: Travessia fechada ate mar/2026. Acesso liberado: Urubici → mirantes. Ingresso R$80.</desc>
+      </trkpt>
+      <trkpt lat="-28.0420" lon="-49.5800">
+        <name>Dia 5 - Pedra Furada</name>
+        <desc>Trilha 1,5km. Melhor luz: por do sol. Cartao postal de Urubici.</desc>
+      </trkpt>
+
+      <!-- Dia 6: Urubici → Bom Jardim (80 km) - ROTA ALTA -->
+      <trkpt lat="-28.2200" lon="-49.6300">
+        <name>SC-430 (Rota Alta)</name>
+        <desc>Contorna trecho fechado do Corvo Branco.</desc>
+      </trkpt>
+      <trkpt lat="-28.3606" lon="-49.5733">
+        <name>Dia 6 - Bom Jardim da Serra - SC</name>
+        <desc>Base para Serra do Rio do Rastro.</desc>
+      </trkpt>
+      <trkpt lat="-28.3900" lon="-49.5400">
+        <name>CLIMAX - Serra do Rio do Rastro</name>
+        <desc>284 curvas! Desnivel 1.400m. Fazer DESCIDA de manha. Mirantes imperdíveis!</desc>
+      </trkpt>
+
+      <!-- FASE 3: Canions e Serra Gaucha (Dias 7-10) -->
+
+      <!-- Dia 7: Bom Jardim → Cambara (180 km) -->
+      <trkpt lat="-28.2901" lon="-49.9300">
+        <name>Sao Joaquim - SC (Parada)</name>
+        <desc>Cidade mais fria do Brasil. Cafe + opcional vinicola.</desc>
+      </trkpt>
+      <trkpt lat="-29.0450" lon="-50.1467">
+        <name>Dia 7 - Cambara do Sul - RS (Pernoite)</name>
+        <desc>Chegada ~13:00. 180 km. Base para canions.</desc>
+      </trkpt>
+
+      <!-- Dia 8: Cambara - Canions -->
+      <trkpt lat="-29.1830" lon="-50.0858">
+        <name>Dia 8 - Canion Itaimbezinho</name>
+        <desc>Maior do Brasil - 720m. Trilha Cotovelo IMPERDIVEL! Ingresso R$96,90/pessoa.</desc>
+      </trkpt>
+      <trkpt lat="-29.0650" lon="-49.9350">
+        <name>Dia 8 - Canion Fortaleza</name>
+        <desc>900m profundidade. Vistas dramaticas. Tirolesa FECHADA.</desc>
+      </trkpt>
+
+      <!-- Dia 9: Cambara → Bento Goncalves (180 km) -->
+      <trkpt lat="-28.7461" lon="-50.0697">
+        <name>Sao Jose dos Ausentes - RS (Parada)</name>
+        <desc>Rota do Sol - paisagens incriveis!</desc>
+      </trkpt>
+      <trkpt lat="-29.1690" lon="-51.5170">
+        <name>Dia 9 - Bento Goncalves - RS (Pernoite)</name>
+        <desc>Chegada ~13:00. 180 km. Vale dos Vinhedos!</desc>
+      </trkpt>
+
+      <!-- Dia 10: Bento - Vinicolas -->
+      <trkpt lat="-29.1500" lon="-51.4800">
+        <name>Dia 10 - Vale dos Vinhedos</name>
+        <desc>Cave Geisse, Casa Valduga, Miolo, Pizzato. ~40km circulando.</desc>
+      </trkpt>
+
+      <!-- FASE 4: Retorno (Dias 11-15) -->
+
+      <!-- Dia 11: Bento → Curitiba (430 km) -->
+      <trkpt lat="-28.5076" lon="-50.9370">
+        <name>Vacaria - RS (Parada)</name>
+        <desc>Cafe + combustivel.</desc>
+      </trkpt>
+      <trkpt lat="-25.4284" lon="-49.2733">
+        <name>Dia 11 - Curitiba - PR (Pernoite)</name>
+        <desc>Chegada ~13:30. 430 km. Dia longo!</desc>
+      </trkpt>
+
+      <!-- Dia 12: Curitiba - Folga -->
+      <trkpt lat="-25.4412" lon="-49.2927">
+        <name>Dia 12 - Curitiba (Folga)</name>
+        <desc>Descanso! Jardim Botanico, Opera de Arame, Santa Felicidade. Revisar moto.</desc>
+      </trkpt>
+
+      <!-- Dia 13: Curitiba → Ourinhos (400 km) -->
+      <trkpt lat="-22.9797" lon="-49.8708">
+        <name>Dia 13 - Ourinhos - SP (Pernoite)</name>
+        <desc>400 km via BR-376/BR-153.</desc>
+      </trkpt>
+
+      <!-- Dia 14: Ourinhos → Uberaba (360 km) -->
+      <trkpt lat="-19.7500" lon="-47.9318">
+        <name>Dia 14 - Uberaba - MG (Pernoite)</name>
+        <desc>360 km.</desc>
+      </trkpt>
+
+      <!-- Dia 15: Uberaba → Goiania (380 km) -->
+      <trkpt lat="-16.6869" lon="-49.2648">
+        <name>Dia 15 - Goiania - GO (CHEGADA)</name>
+        <desc>380 km. FIM DA VIAGEM! Chegada ~12:00.</desc>
+      </trkpt>
     </trkseg>
   </trk>
+
+  <!-- WAYPOINTS IMPORTANTES -->
+  <wpt lat="-28.0350" lon="-49.5100">
+    <name>Serra do Corvo Branco</name>
+    <desc>Mirantes acessiveis. Travessia FECHADA ate mar/2026.</desc>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="-28.3900" lon="-49.5400">
+    <name>Serra do Rio do Rastro</name>
+    <desc>284 curvas, 1400m desnivel. Uma das estradas mais bonitas do Brasil!</desc>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="-29.1830" lon="-50.0858">
+    <name>Canion Itaimbezinho</name>
+    <desc>Maior canion do Brasil - 720m. Trilha do Cotovelo imperdivel!</desc>
+    <sym>Park</sym>
+  </wpt>
+  <wpt lat="-29.0650" lon="-49.9350">
+    <name>Canion Fortaleza</name>
+    <desc>900m profundidade. Vistas dramaticas.</desc>
+    <sym>Park</sym>
+  </wpt>
+  <wpt lat="-29.1500" lon="-51.4800">
+    <name>Vale dos Vinhedos</name>
+    <desc>Principal regiao vinicola do Brasil.</desc>
+    <sym>Winery</sym>
+  </wpt>
 </gpx>

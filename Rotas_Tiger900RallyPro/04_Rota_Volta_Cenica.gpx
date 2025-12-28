@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="PAI Travel Assistant" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Rota de Volta - Cenica (Alternativa)</name>
+    <author>Juliano M. Barbosa</author>
+    <desc>Retorno cenico de Bento Goncalves ate Goiania via Sao Jose dos Ausentes e Lages. Paisagens incriveis, revisita a serra.</desc>
+  </metadata>
+  <trk>
+    <name>Volta Cenica - Bento a Goiania</name>
+    <trkseg>
+      <!-- Dia 11: Bento Goncalves → Sao Jose dos Ausentes (opcional) → Vacaria -->
+      <trkpt lat="-29.1690" lon="-51.5170">
+        <name>Bento Goncalves - RS (Partida)</name>
+        <desc>Inicio do retorno cenico</desc>
+      </trkpt>
+      <trkpt lat="-28.7461" lon="-50.0697">
+        <name>Sao Jose dos Ausentes - RS</name>
+        <desc>Rota do Sol - paisagens incriveis. Altitude 1.200m. Opcional pernoite.</desc>
+      </trkpt>
+      <trkpt lat="-28.5076" lon="-50.9370">
+        <name>Vacaria - RS</name>
+        <desc>Capital Nacional da Maca</desc>
+      </trkpt>
+
+      <!-- Dia 12: Vacaria → Lages -->
+      <trkpt lat="-27.8170" lon="-50.3264">
+        <name>Lages - SC</name>
+        <desc>Capital Nacional do Pinhao. Experimente o entrevero.</desc>
+      </trkpt>
+
+      <!-- Dia 13: Lages → Curitiba -->
+      <trkpt lat="-25.4284" lon="-49.2733">
+        <name>Curitiba - PR</name>
+        <desc>Dia de folga opcional. Jardim Botanico, Opera de Arame.</desc>
+      </trkpt>
+
+      <!-- Dia 14: Curitiba → Ourinhos -->
+      <trkpt lat="-25.0945" lon="-50.1619">
+        <name>Ponta Grossa - PR (Passagem)</name>
+        <desc>Parada para cafe</desc>
+      </trkpt>
+      <trkpt lat="-22.9797" lon="-49.8708">
+        <name>Ourinhos - SP</name>
+        <desc>Pernoite</desc>
+      </trkpt>
+
+      <!-- Dia 15: Ourinhos → Uberaba → Goiania -->
+      <trkpt lat="-19.7500" lon="-47.9318">
+        <name>Uberaba - MG</name>
+        <desc>Parada para almoco</desc>
+      </trkpt>
+      <trkpt lat="-16.6869" lon="-49.2648">
+        <name>Goiania - GO (Chegada)</name>
+        <desc>Fim da viagem!</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+  <!-- Waypoints importantes -->
+  <wpt lat="-28.7461" lon="-50.0697">
+    <name>Mirante Sao Jose dos Ausentes</name>
+    <desc>Vista panoramica da Rota do Sol</desc>
+    <sym>Scenic Area</sym>
+  </wpt>
+  <wpt lat="-27.8170" lon="-50.3264">
+    <name>Lages - Pinhao</name>
+    <desc>Experimente pinhao assado e entrevero</desc>
+    <sym>Restaurant</sym>
+  </wpt>
+</gpx>
