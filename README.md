@@ -11,6 +11,8 @@ Roteiro completo de 15 dias pelas Serras Gauchas, com integracao Garmin e My Tri
 - `docs/guia-emergencias.md` - Contatos e procedimentos de emergencia
 - `docs/guia-gastronomico.md` - Onde comer em cada regiao
 - `docs/manutencao-viagem.md` - Cuidados com a moto
+- `docs/guia-vale-vinhedos.md` - Rota de moto pelo Vale dos Vinhedos
+- `docs/guia-acesso-canions.md` - Acesso de moto aos canions (estradas, calibragem)
 - `assets/Roteiro_Tiger900_SerrasGauchas.xlsx` - Planilha de custos, hospedagem e abastecimento
 - `Rotas_Tiger900RallyPro/` - Arquivos GPX para Garmin/My Triumph App
 - `assets/Links_Triumph_MyApp.txt` - Links Google Maps e My Triumph App

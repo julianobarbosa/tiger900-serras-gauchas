@@ -247,6 +247,8 @@ Uma das estradas mais bonitas do Brasil!
 | **Distancia** | ~60 km (ida e volta aos parques) |
 | **Atividades** | Trilhas nos canions |
 
+> **GUIA DETALHADO:** Consulte [guia-acesso-canions.md](guia-acesso-canions.md) para informacoes sobre estradas, calibragem de pneus e dicas de pilotagem.
+
 **DESTAQUE: Canions**
 
 | Canion | Profundidade | Destaque |
@@ -305,6 +307,8 @@ Uma das estradas mais bonitas do Brasil!
 |------|---------|
 | **Distancia** | ~40 km (circulando pelas vinicolas) |
 | **Atividades** | Tour de vinicolas |
+
+> **GUIA DETALHADO:** Consulte [guia-vale-vinhedos.md](guia-vale-vinhedos.md) para rota completa, estradas, estacionamentos e alerta sobre Lei Seca.
 
 **Vinicolas recomendadas:**
 
