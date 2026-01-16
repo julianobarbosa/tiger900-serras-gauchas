@@ -1,7 +1,7 @@
 installation:
-  version: 6.0.0-alpha.21
-  installDate: 2025-12-28T18:31:57.636Z
-  lastUpdated: 2025-12-28T18:31:57.636Z
+  version: 6.0.0-alpha.23
+  installDate: 2026-01-16T21:53:55.343Z
+  lastUpdated: 2026-01-16T21:53:55.343Z
 modules:
   - core
   - bmb
