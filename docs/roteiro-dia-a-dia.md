@@ -4,10 +4,11 @@
 
 | Informacao | Valor |
 |------------|-------|
-| **Periodo** | 19/01/2026 (Dom) → 05/02/2026 (Qui) |
+| **Periodo** | 19/01/2026 (Dom) → 05/02/2026 (Qua) |
 | **Duracao** | 18 dias / 17 noites |
-| **Distancia Total** | ~3.860 km |
-| **Media Diaria** | 214 km |
+| **Distancia Total** | ~4.040 km |
+| **Media Diaria** | 224 km |
+| **Destaque** | Inclui Rastro da Serpente (1.200 curvas!) |
 
 ---
 
@@ -17,26 +18,26 @@
 |-----|------|--------|----|----|
 | 1 | 19/01 Dom | Goiania → Uberaba | 380 | Deslocamento |
 | 2 | 20/01 Seg | Uberaba → Ourinhos | 360 | Deslocamento |
-| 3 | 21/01 Ter | Ourinhos → Ponta Grossa | 350 | Deslocamento |
-| 4 | 22/01 Qua | Ponta Grossa → Urubici | 380 | Deslocamento |
-| 5 | 23/01 Qui | Urubici (Corvo Branco + Pedra Furada) | 60 | **Exploracao** |
-| 6 | 24/01 Sex | Urubici → Bom Jardim + Rio do Rastro | 80 | **CLIMAX** |
-| 7 | 25/01 Sab | Bom Jardim → Cambara do Sul | 180 | Transicao |
-| 8 | 26/01 Dom | Cambara do Sul (Canions) | 60 | **Exploracao** |
-| 9 | 27/01 Seg | Cambara → Bento Goncalves | 180 | Serra Gaucha |
-| 10 | 28/01 Ter | Bento (Vale dos Vinhedos) | 40 | **Vinicolas** |
-| 11 | 29/01 Qua | Bento → Balneario Camboriu | 280 | **Litoral SC** |
-| 12 | 30/01 Qui | Bombinhas + Guarda do Embau (loop) | 200 | **Praias** |
-| 13 | 31/01 Sex | Balneario Camboriu → Curitiba | 230 | Transicao |
-| 14 | 01/02 Sab | Curitiba (Serra Verde Express) | 15 | **Trem Turistico** |
-| 15 | 02/02 Dom | Curitiba → Ourinhos | 400 | Retorno |
-| 16 | 03/02 Seg | Ourinhos → Uberaba | 360 | Retorno |
-| 17 | 04/02 Ter | Uberaba → Goiania | 380 | Retorno |
-| 18 | 05/02 Qua | Buffer (opcional) | - | Reserva |
+| 3 | 21/01 Ter | Ourinhos → Capao Bonito (Rastro da Serpente) | 180 | **🐍 CURVAS** |
+| 4 | 22/01 Qua | Capao Bonito → Ponta Grossa | 280 | Deslocamento |
+| 5 | 23/01 Qui | Ponta Grossa → Urubici | 380 | Deslocamento |
+| 6 | 24/01 Sex | Urubici (Corvo Branco + Pedra Furada) | 60 | **Exploracao** |
+| 7 | 25/01 Sab | Urubici → Bom Jardim + Rio do Rastro | 80 | **CLIMAX** |
+| 8 | 26/01 Dom | Bom Jardim → Cambara do Sul | 180 | Transicao |
+| 9 | 27/01 Seg | Cambara do Sul (Canions) | 60 | **Exploracao** |
+| 10 | 28/01 Ter | Cambara → Bento Goncalves | 180 | Serra Gaucha |
+| 11 | 29/01 Qua | Bento (Vale dos Vinhedos) | 40 | **Vinicolas** |
+| 12 | 30/01 Qui | Bento → Balneario Camboriu | 280 | **Litoral SC** |
+| 13 | 31/01 Sex | Bombinhas + Guarda do Embau (loop) | 200 | **Praias** |
+| 14 | 01/02 Sab | Balneario Camboriu → Curitiba | 230 | Transicao |
+| 15 | 02/02 Dom | Curitiba (Serra Verde Express) | 15 | **Trem Turistico** |
+| 16 | 03/02 Seg | Curitiba → Ourinhos | 400 | Retorno |
+| 17 | 04/02 Ter | Ourinhos → Uberaba | 360 | Retorno |
+| 18 | 05/02 Qua | Uberaba → Goiania | 380 | Retorno |
 
 ---
 
-## Fase 1: Deslocamento Goiania → Serras (Dias 1-4)
+## Fase 1: Deslocamento Goiania → Serras (Dias 1-5)
 
 ### Dia 1 - Domingo, 19/01/2026
 **Goiania - GO → Uberaba - MG**
@@ -87,33 +88,76 @@
 ---
 
 ### Dia 3 - Terca, 21/01/2026
-**Ourinhos - SP → Ponta Grossa - PR**
+**Ourinhos - SP → Capao Bonito - SP (Rastro da Serpente)**
 
 | Item | Detalhe |
 |------|---------|
-| **Distancia** | ~350 km |
-| **Tempo estimado** | 5h |
-| **Rodovias** | BR-153, PR-151 |
+| **Distancia** | ~180 km |
+| **Tempo estimado** | 4-5h (muitas curvas!) |
+| **Rodovias** | SP-270, SP-250 (Rastro da Serpente) |
 | **Saida sugerida** | 07:00 |
-| **Chegada estimada** | 13:00 |
+| **Chegada estimada** | 12:00 |
+
+**🐍 DESTAQUE: Rastro da Serpente**
+
+Uma das estradas mais sinuosas do Brasil!
+
+| Informacao | Detalhe |
+|------------|---------|
+| **Curvas** | 1.200+ |
+| **Extensao** | ~80 km (trecho sinuoso) |
+| **Desnivel** | 1.000 metros |
+| **Altitude maxima** | 1.100m |
 
 **Roteiro:**
-- 07:00 - Saida de Ourinhos
-- 09:00 - Divisa SP/PR
-- 10:30 - Parada em Jaguariaiva (cafe)
-- 13:00 - Chegada em Ponta Grossa
+- 07:00 - Saida de Ourinhos pela SP-270
+- 09:00 - Entrada no Rastro da Serpente (SP-250)
+- 09:00-11:30 - Pilotagem nas curvas (aproveite!)
+- 12:00 - Chegada em Capao Bonito
+
+**Dicas:**
+- Estrada em bom estado, asfalto regular
+- Cuidado com caminhoes nas curvas fechadas
+- Mirantes naturais ao longo do trajeto
+- Combustivel: abastecer em Ourinhos (postos escassos no trajeto)
+- Capao Bonito: cidade pequena, hoteis simples mas confortaveis
+
+**Pontos de Interesse em Capao Bonito:**
+- **Caverna do Diabo** - Uma das maiores do Brasil (opcional, +30km)
+- Centro historico da cidade
+
+---
+
+### Dia 4 - Quarta, 22/01/2026
+**Capao Bonito - SP → Ponta Grossa - PR**
+
+| Item | Detalhe |
+|------|---------|
+| **Distancia** | ~280 km |
+| **Tempo estimado** | 4h30 |
+| **Rodovias** | SP-250, BR-116, PR-151 |
+| **Saida sugerida** | 07:00 |
+| **Chegada estimada** | 12:30 |
+
+**Roteiro:**
+- 07:00 - Saida de Capao Bonito
+- 08:30 - Passagem por Itapeva (cafe)
+- 10:00 - Divisa SP/PR
+- 11:00 - Parada em Jaguariaiva (combustivel)
+- 12:30 - Chegada em Ponta Grossa
 
 **Pontos de Interesse (opcional - se chegar cedo):**
 - **Parque Estadual de Vila Velha** - Formacoes rochosas unicas
 - **Buraco do Padre** - Furna com cachoeira
 
 **Dicas:**
+- Trecho mais tranquilo apos as curvas do dia anterior
 - Se tiver tempo, visite Vila Velha a tarde
-- Camping Portal dos Campos Gerais fica perto do Buraco do Padre
+- Ponta Grossa tem boa estrutura de hoteis
 
 ---
 
-### Dia 4 - Quarta, 22/01/2026
+### Dia 5 - Quinta, 23/01/2026
 **Ponta Grossa - PR → Urubici - SC**
 
 | Item | Detalhe |
@@ -138,9 +182,9 @@
 
 ---
 
-## Fase 2: Serras Catarinenses (Dias 5-6)
+## Fase 2: Serras Catarinenses (Dias 6-7)
 
-### Dia 5 - Quinta, 23/01/2026
+### Dia 6 - Sexta, 24/01/2026
 **Urubici - SC (Dia de Exploracao)**
 
 | Item | Detalhe |
@@ -175,7 +219,7 @@
 
 ---
 
-### Dia 6 - Sexta, 24/01/2026
+### Dia 7 - Sabado, 25/01/2026
 **Urubici - SC → Bom Jardim da Serra - SC**
 
 | Item | Detalhe |
@@ -216,9 +260,9 @@ Uma das estradas mais bonitas do Brasil!
 
 ---
 
-## Fase 3: Canions e Serra Gaucha (Dias 7-10)
+## Fase 3: Canions e Serra Gaucha (Dias 8-11)
 
-### Dia 7 - Sabado, 25/01/2026
+### Dia 8 - Domingo, 26/01/2026
 **Bom Jardim da Serra - SC → Cambara do Sul - RS**
 
 | Item | Detalhe |
@@ -242,7 +286,7 @@ Uma das estradas mais bonitas do Brasil!
 
 ---
 
-### Dia 8 - Domingo, 26/01/2026
+### Dia 9 - Segunda, 27/01/2026
 **Cambara do Sul - RS (Dia nos Canions)**
 
 | Item | Detalhe |
@@ -279,7 +323,7 @@ Uma das estradas mais bonitas do Brasil!
 
 ---
 
-### Dia 9 - Segunda, 27/01/2026
+### Dia 10 - Terca, 28/01/2026
 **Cambara do Sul - RS → Bento Goncalves - RS**
 
 | Item | Detalhe |
@@ -303,7 +347,7 @@ Uma das estradas mais bonitas do Brasil!
 
 ---
 
-### Dia 10 - Terca, 28/01/2026
+### Dia 11 - Quarta, 29/01/2026
 **Bento Goncalves - RS (Dia nas Vinicolas)**
 
 | Item | Detalhe |
@@ -331,9 +375,9 @@ Uma das estradas mais bonitas do Brasil!
 
 ---
 
-## Fase 4: Litoral Catarinense (Dias 11-13)
+## Fase 4: Litoral Catarinense (Dias 12-14)
 
-### Dia 11 - Quarta, 29/01/2026
+### Dia 12 - Quinta, 30/01/2026
 **Bento Goncalves - RS → Balneario Camboriu - SC**
 
 | Item | Detalhe |
@@ -370,7 +414,7 @@ Uma das estradas mais bonitas do Brasil!
 
 ---
 
-### Dia 12 - Quinta, 30/01/2026
+### Dia 13 - Sexta, 31/01/2026
 **Dia de Praias: Bombinhas + Guarda do Embau**
 
 | Item | Detalhe |
@@ -419,7 +463,7 @@ Uma das estradas mais bonitas do Brasil!
 
 ---
 
-### Dia 13 - Sexta, 31/01/2026
+### Dia 14 - Sabado, 01/02/2026
 **Balneario Camboriu - SC → Curitiba - PR**
 
 | Item | Detalhe |
@@ -443,9 +487,9 @@ Uma das estradas mais bonitas do Brasil!
 
 ---
 
-## Fase 5: Curitiba + Retorno (Dias 14-18)
+## Fase 5: Curitiba + Retorno (Dias 15-18)
 
-### Dia 14 - Sabado, 01/02/2026
+### Dia 15 - Domingo, 02/02/2026
 **Curitiba - PR (Serra Verde Express + Cidade)**
 
 | Item | Detalhe |
@@ -488,7 +532,7 @@ Uma das estradas mais bonitas do Brasil!
 
 ---
 
-### Dia 15 - Domingo, 02/02/2026
+### Dia 16 - Segunda, 03/02/2026
 **Curitiba - PR → Ourinhos - SP**
 
 | Item | Detalhe |
@@ -507,7 +551,7 @@ Uma das estradas mais bonitas do Brasil!
 
 ---
 
-### Dia 16 - Segunda, 03/02/2026
+### Dia 17 - Terca, 04/02/2026
 **Ourinhos - SP → Uberaba - MG**
 
 | Item | Detalhe |
@@ -526,7 +570,7 @@ Uma das estradas mais bonitas do Brasil!
 
 ---
 
-### Dia 17 - Terca, 04/02/2026
+### Dia 18 - Quarta, 05/02/2026
 **Uberaba - MG → Goiania - GO**
 
 | Item | Detalhe |
@@ -541,23 +585,11 @@ Uma das estradas mais bonitas do Brasil!
 - 07:00 - Saida de Uberaba
 - 09:00 - Parada em Frutal (cafe)
 - 10:30 - Parada em Itumbiara (combustivel)
-- 12:00 - **Chegada em Goiania!**
+- 12:00 - **Chegada em Goiania!** 🏠
 
----
-
-### Dia 18 - Quarta, 05/02/2026
-**Buffer (Opcional)**
-
-| Item | Detalhe |
-|------|---------|
-| **Distancia** | - |
-| **Tipo** | Dia reserva |
-
-**Uso do dia buffer:**
-- Caso de imprevistos durante a viagem
-- Chegada antecipada: dia extra em Goiania
-- Manutencao pos-viagem da moto
-- Descanso antes de retomar rotina
+**Fim da viagem!**
+- Manutencao pos-viagem da moto recomendada
+- Descanso merecido apos 4.040 km de aventura
 
 ---
 
@@ -565,12 +597,12 @@ Uma das estradas mais bonitas do Brasil!
 
 | Fase | Dias | Km | Destaque |
 |------|------|----|---------|
-| Deslocamento ida | 1-4 | ~1.470 | Chegada em Urubici |
-| Serras Catarinenses | 5-6 | ~140 | Corvo Branco, Rio do Rastro |
-| Canions e Serra | 7-10 | ~460 | Canions, Vinhedos |
-| **Litoral SC (NOVO)** | **11-13** | **~710** | **BC, Bombinhas, Guarda** |
-| Curitiba + Retorno | 14-18 | ~1.155 | **Serra Verde Express** |
-| **Total** | **18** | **~3.860** | |
+| Deslocamento ida | 1-5 | ~1.580 | **Rastro da Serpente (1.200 curvas!)** |
+| Serras Catarinenses | 6-7 | ~140 | Corvo Branco, Rio do Rastro |
+| Canions e Serra | 8-11 | ~460 | Canions, Vinhedos |
+| Litoral SC | 12-14 | ~710 | BC, Bombinhas, Guarda |
+| Curitiba + Retorno | 15-18 | ~1.155 | Serra Verde Express |
+| **Total** | **18** | **~4.040** | |
 
 ---
 
@@ -589,31 +621,24 @@ Uma das estradas mais bonitas do Brasil!
 
 ## Rotas Alternativas
 
-### Opcao Alternativa: Rastro da Serpente (Ida)
+### Opcao: Pular Litoral
 
-Se quiser adicionar 1.200 curvas adicionais na ida:
-
-```
-Ourinhos → Capao Bonito (Rastro da Serpente) → Ponta Grossa
-```
-
-| Informacao | Detalhe |
-|------------|---------|
-| **Curvas** | 1.200 |
-| **Extensao** | ~180 km |
-| **Desnivel** | 1.000m |
-| **Pernoite** | Capao Bonito |
-
-**Vantagem:** Uma das estradas mais sinuosas do Brasil!
-
-### Opcao: Pular Litoral (15 dias original)
-
-Se preferir manter 15 dias:
+Se preferir encurtar a viagem (remove 3 dias):
 ```
 Bento Goncalves → Curitiba (direto) → Ourinhos → Uberaba → Goiania
 ```
 - Remove: Balneario Camboriu, Bombinhas, Guarda do Embau
 - Mantem: Serra Verde Express em Curitiba
+- Economia: ~710 km
+
+### Opcao: Pular Rastro da Serpente
+
+Se quiser evitar as 1.200 curvas (remove 1 dia):
+```
+Ourinhos → Ponta Grossa (direto via BR-153)
+```
+- Remove: Capao Bonito
+- Economia: ~100 km (mas perde a diversao!)
 
 **Decida durante a viagem conforme seu estado de animo e cansaco!**
 
@@ -643,6 +668,6 @@ Bento Goncalves → Curitiba (direto) → Ourinhos → Uberaba → Goiania
 
 ---
 
-*Roteiro otimizado para 18 dias com litoral catarinense. Horarios e distancias sao estimativas. Ajuste conforme seu ritmo.*
+*Roteiro otimizado para 18 dias com Rastro da Serpente e litoral catarinense. Horarios e distancias sao estimativas. Ajuste conforme seu ritmo.*
 
-*Ultima atualizacao: Janeiro/2026*
+*Ultima atualizacao: 17/Janeiro/2026 - Integrado Rastro da Serpente ao roteiro principal*
