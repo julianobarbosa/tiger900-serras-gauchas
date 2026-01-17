@@ -4,10 +4,10 @@
 
 | Informacao | Valor |
 |------------|-------|
-| **Periodo** | 19/01/2026 (Dom) → 02/02/2026 (Dom) |
-| **Duracao** | 15 dias / 14 noites |
-| **Distancia Total** | ~3.200 km |
-| **Media Diaria** | 213 km |
+| **Periodo** | 19/01/2026 (Dom) → 05/02/2026 (Qui) |
+| **Duracao** | 18 dias / 17 noites |
+| **Distancia Total** | ~3.860 km |
+| **Media Diaria** | 214 km |
 
 ---
 
@@ -25,11 +25,14 @@
 | 8 | 26/01 Dom | Cambara do Sul (Canions) | 60 | **Exploracao** |
 | 9 | 27/01 Seg | Cambara → Bento Goncalves | 180 | Serra Gaucha |
 | 10 | 28/01 Ter | Bento (Vale dos Vinhedos) | 40 | **Vinicolas** |
-| 11 | 29/01 Qua | Bento → Curitiba | 430 | Retorno |
-| 12 | 30/01 Qui | Curitiba (descanso + explorar) | - | **Folga** |
-| 13 | 31/01 Sex | Curitiba → Ourinhos | 400 | Retorno |
-| 14 | 01/02 Sab | Ourinhos → Uberaba | 360 | Retorno |
-| 15 | 02/02 Dom | Uberaba → Goiania | 380 | Retorno |
+| 11 | 29/01 Qua | Bento → Balneario Camboriu | 280 | **Litoral SC** |
+| 12 | 30/01 Qui | Bombinhas + Guarda do Embau (loop) | 200 | **Praias** |
+| 13 | 31/01 Sex | Balneario Camboriu → Curitiba | 230 | Transicao |
+| 14 | 01/02 Sab | Curitiba (Serra Verde Express) | 15 | **Trem Turistico** |
+| 15 | 02/02 Dom | Curitiba → Ourinhos | 400 | Retorno |
+| 16 | 03/02 Seg | Ourinhos → Uberaba | 360 | Retorno |
+| 17 | 04/02 Ter | Uberaba → Goiania | 380 | Retorno |
+| 18 | 05/02 Qua | Buffer (opcional) | - | Reserva |
 
 ---
 
@@ -328,47 +331,156 @@ Uma das estradas mais bonitas do Brasil!
 
 ---
 
-## Fase 4: Retorno (Dias 11-15)
+## Fase 4: Litoral Catarinense (Dias 11-13)
 
 ### Dia 11 - Quarta, 29/01/2026
-**Bento Goncalves - RS → Curitiba - PR**
+**Bento Goncalves - RS → Balneario Camboriu - SC**
 
 | Item | Detalhe |
 |------|---------|
-| **Distancia** | ~430 km |
-| **Tempo estimado** | 6h30 |
-| **Rodovias** | RS-470, BR-116 |
-| **Saida sugerida** | 06:00 |
-| **Chegada estimada** | 13:30 |
+| **Distancia** | ~280 km |
+| **Tempo estimado** | 5h |
+| **Rodovias** | RS-470, BR-116, BR-101 |
+| **Saida sugerida** | 07:00 |
+| **Chegada estimada** | 12:00 |
 
 **Roteiro:**
-- 06:00 - Saida de Bento Goncalves
-- 08:30 - Passagem por Vacaria (cafe + combustivel)
-- 10:30 - Divisa RS/SC
-- 12:00 - Divisa SC/PR
-- 13:30 - Chegada em Curitiba
+- 07:00 - Saida de Bento Goncalves
+- 09:30 - Passagem por Vacaria (cafe + combustivel)
+- 12:00 - Chegada em Balneario Camboriu
 
-**Dicas:**
-- Dia longo, saida bem cedo
-- BR-116 bem pavimentada
-- Atencao: transicao de clima (pode esfriar na serra)
+**Tarde em Balneario Camboriu:**
+- 14:00 - Rodovia Interpraias (passeio cenico)
+- 16:00 - Teleferico Unipraias (Barra Sul → Laranjeiras)
+- 18:00 - Por do sol na Praia Brava
+
+**DESTAQUE: Teleferico Unipraias**
+
+| Informacao | Detalhe |
+|------------|---------|
+| **Unico no Brasil** | Liga duas praias pelo ar |
+| **Horario** | 09h-19h |
+| **Preco** | ~R$ 70-100 |
+| **Vista** | Panoramica da costa |
+
+**Rodovia Interpraias:**
+- Estrada cenica costeira
+- Praias: Laranjeiras, Taquaras, Estaleiro
+- Mirantes com vistas incriveis
 
 ---
 
 ### Dia 12 - Quinta, 30/01/2026
-**Curitiba - PR (Dia de Folga)**
+**Dia de Praias: Bombinhas + Guarda do Embau**
 
 | Item | Detalhe |
 |------|---------|
-| **Atividades** | Descanso, turismo, revisao da moto |
+| **Distancia** | ~200 km (loop) |
+| **Tempo estimado** | Dia inteiro |
+| **Tipo** | Exploracao costeira |
 
-**O que fazer em Curitiba:**
-- Jardim Botanico (icone da cidade)
-- Opera de Arame
-- Centro Historico (Largo da Ordem)
-- Bairro italiano de Santa Felicidade (jantar!)
+**MANHA - Bombinhas:**
 
-**Manutencao da moto:**
+| Horario | Atividade |
+|---------|-----------|
+| 07:00 | Saida para Bombinhas via Porto Belo (60km) |
+| 08:30 | Entrada em Bombinhas (TPA R$ 3,50 moto) |
+| 09:00 | Praia da Sepultura (snorkel, aguas cristalinas) |
+| 10:30 | Praia de Zimbros (vila de pescadores) |
+| 11:30 | Saida de Bombinhas |
+
+**DESTAQUE: Bombinhas**
+
+| Informacao | Detalhe |
+|------------|---------|
+| **TPA (taxa)** | R$ 3,50 para motos |
+| **Acesso** | Via Porto Belo, estrada com curvas |
+| **Praias** | 39 praias na peninsula |
+| **Snorkel** | Sepultura tem aguas cristalinas |
+
+**TARDE - Guarda do Embau:**
+
+| Horario | Atividade |
+|---------|-----------|
+| 12:30 | Chegada em Guarda do Embau (100km ao sul) |
+| 13:00 | Almoco na vila |
+| 14:00-16:00 | Praia (Reserva Mundial de Surfe) |
+| 16:30 | Retorno a Balneario Camboriu (100km) |
+| 18:30 | Chegada no hotel |
+
+**DESTAQUE: Guarda do Embau**
+
+| Informacao | Detalhe |
+|------------|---------|
+| **Localizacao** | 46km sul de Florianopolis |
+| **Status** | 9a Reserva Mundial de Surfe |
+| **Primeiro no Brasil** | Reconhecimento internacional |
+| **Rio da Madre** | Atravessar de canoa para a praia |
+
+---
+
+### Dia 13 - Sexta, 31/01/2026
+**Balneario Camboriu - SC → Curitiba - PR**
+
+| Item | Detalhe |
+|------|---------|
+| **Distancia** | ~230 km |
+| **Tempo estimado** | 4h |
+| **Rodovias** | BR-101, BR-376 |
+| **Saida sugerida** | 08:00 |
+| **Chegada estimada** | 12:00 |
+
+**Roteiro:**
+- 08:00 - Saida de Balneario Camboriu
+- 10:00 - Parada em Joinville (cafe)
+- 12:00 - Chegada em Curitiba
+- Tarde livre para descanso
+
+**Dicas:**
+- Trecho tranquilo pela BR-101
+- Serra do Mar na subida para Curitiba
+- Atencao: neblina possivel na serra
+
+---
+
+## Fase 5: Curitiba + Retorno (Dias 14-18)
+
+### Dia 14 - Sabado, 01/02/2026
+**Curitiba - PR (Serra Verde Express + Cidade)**
+
+| Item | Detalhe |
+|------|---------|
+| **Atividade principal** | Passeio de trem Serra Verde Express |
+| **Distancia moto** | ~15 km (cidade) |
+
+**DESTAQUE: Serra Verde Express**
+
+| Informacao | Detalhe |
+|------------|---------|
+| **Trajeto** | Curitiba → Morretes |
+| **Distancia** | 110 km de trilhos |
+| **Duracao** | 4h15 (descida) |
+| **Horario saida** | 08:30 |
+| **Chegada Morretes** | 12:45 |
+| **Classes** | Economica, Turistica, Boutique, Luxo |
+| **Preco** | R$ 35-180 (turistica ~R$ 80-100) |
+
+**Roteiro do dia:**
+- 07:00 - Check-out hotel, guardar bagagem
+- 08:30 - Embarque trem (Estacao Rodoferroviaria)
+- 12:45 - Chegada em Morretes
+- 13:00-14:30 - Almoco tipico (Barreado!)
+- 15:00 - Retorno de van (agendar ~R$ 50)
+- 16:30 - Volta a Curitiba
+- 19:00 - Jantar em Santa Felicidade (italiano)
+
+**Dicas Serra Verde Express:**
+- **Reservar antecipado:** serraverdeexpress.com.br
+- **Lado DIREITO:** Melhor vista descendo a serra
+- **Levar camera/GoPro:** Paisagens incriveis
+- **Barreado:** Prato tipico de Morretes (carne cozida por 20h)
+
+**Manutencao da moto (antes ou depois do trem):**
 - [ ] Revisar pressao dos pneus
 - [ ] Lubrificar corrente
 - [ ] Verificar nivel de oleo
@@ -376,7 +488,7 @@ Uma das estradas mais bonitas do Brasil!
 
 ---
 
-### Dia 13 - Sexta, 31/01/2026
+### Dia 15 - Domingo, 02/02/2026
 **Curitiba - PR → Ourinhos - SP**
 
 | Item | Detalhe |
@@ -395,7 +507,7 @@ Uma das estradas mais bonitas do Brasil!
 
 ---
 
-### Dia 14 - Sabado, 01/02/2026
+### Dia 16 - Segunda, 03/02/2026
 **Ourinhos - SP → Uberaba - MG**
 
 | Item | Detalhe |
@@ -414,7 +526,7 @@ Uma das estradas mais bonitas do Brasil!
 
 ---
 
-### Dia 15 - Domingo, 02/02/2026
+### Dia 17 - Terca, 04/02/2026
 **Uberaba - MG → Goiania - GO**
 
 | Item | Detalhe |
@@ -433,6 +545,22 @@ Uma das estradas mais bonitas do Brasil!
 
 ---
 
+### Dia 18 - Quarta, 05/02/2026
+**Buffer (Opcional)**
+
+| Item | Detalhe |
+|------|---------|
+| **Distancia** | - |
+| **Tipo** | Dia reserva |
+
+**Uso do dia buffer:**
+- Caso de imprevistos durante a viagem
+- Chegada antecipada: dia extra em Goiania
+- Manutencao pos-viagem da moto
+- Descanso antes de retomar rotina
+
+---
+
 ## Resumo por Fase
 
 | Fase | Dias | Km | Destaque |
@@ -440,8 +568,9 @@ Uma das estradas mais bonitas do Brasil!
 | Deslocamento ida | 1-4 | ~1.470 | Chegada em Urubici |
 | Serras Catarinenses | 5-6 | ~140 | Corvo Branco, Rio do Rastro |
 | Canions e Serra | 7-10 | ~460 | Canions, Vinhedos |
-| Retorno | 11-15 | ~1.570 | Via Curitiba com dia de folga |
-| **Total** | **15** | **~3.200** | |
+| **Litoral SC (NOVO)** | **11-13** | **~710** | **BC, Bombinhas, Guarda** |
+| Curitiba + Retorno | 14-18 | ~1.155 | **Serra Verde Express** |
+| **Total** | **18** | **~3.860** | |
 
 ---
 
@@ -458,25 +587,33 @@ Uma das estradas mais bonitas do Brasil!
 
 ---
 
-## Rotas Alternativas de Retorno
+## Rotas Alternativas
 
-Voce tem **DUAS OPCOES** de rota de retorno a partir de Bento Goncalves:
+### Opcao Alternativa: Rastro da Serpente (Ida)
 
-### Opcao 1: Retorno Rapido (Asfaltado) - PADRAO
-```
-Bento Goncalves → Vacaria → Curitiba → Ourinhos → Uberaba → Goiania
-```
-- **Total:** ~1.570 km em 5 dias
-- **Media:** 314 km/dia
-- **Vantagem:** Mais rapido, estradas melhores
+Se quiser adicionar 1.200 curvas adicionais na ida:
 
-### Opcao 2: Retorno Cenico (Via Sao Jose dos Ausentes)
 ```
-Bento → Sao Jose dos Ausentes → Vacaria → Lages → Curitiba → Goiania
+Ourinhos → Capao Bonito (Rastro da Serpente) → Ponta Grossa
 ```
-- **Total:** ~1.700 km em 5 dias
-- **Media:** 340 km/dia
-- **Vantagem:** Paisagens incriveis, revisita a serra
+
+| Informacao | Detalhe |
+|------------|---------|
+| **Curvas** | 1.200 |
+| **Extensao** | ~180 km |
+| **Desnivel** | 1.000m |
+| **Pernoite** | Capao Bonito |
+
+**Vantagem:** Uma das estradas mais sinuosas do Brasil!
+
+### Opcao: Pular Litoral (15 dias original)
+
+Se preferir manter 15 dias:
+```
+Bento Goncalves → Curitiba (direto) → Ourinhos → Uberaba → Goiania
+```
+- Remove: Balneario Camboriu, Bombinhas, Guarda do Embau
+- Mantem: Serra Verde Express em Curitiba
 
 **Decida durante a viagem conforme seu estado de animo e cansaco!**
 
@@ -490,9 +627,22 @@ Bento → Sao Jose dos Ausentes → Vacaria → Lages → Curitiba → Goiania
 | Tirolesa Fortaleza | Fechada desde maio/2024 |
 | Gramado em janeiro | Lotada (alta temporada) - NAO incluida neste roteiro |
 | Neblina nas serras | Comum de manha - aguarde dissipar antes de pegar estrada |
+| **Serra Verde Express** | Reservar com antecedencia em serraverdeexpress.com.br |
+| **TPA Bombinhas** | Taxa obrigatoria R$ 3,50 para motos |
+| **Litoral em janeiro** | Alta temporada - transito e lotacao nas praias |
 
 ---
 
-*Roteiro otimizado para 15 dias. Horarios e distancias sao estimativas. Ajuste conforme seu ritmo.*
+## Reservas Necessarias
 
-*Ultima atualizacao: Dezembro/2025*
+| Item | Onde Reservar | Quando |
+|------|---------------|--------|
+| Serra Verde Express | serraverdeexpress.com.br | 2+ semanas antes |
+| Van retorno Morretes | Operadoras locais | No dia, antecipado |
+| Hoteis Balneario Camboriu | Booking/Airbnb | 1+ semana antes (alta temporada!) |
+
+---
+
+*Roteiro otimizado para 18 dias com litoral catarinense. Horarios e distancias sao estimativas. Ajuste conforme seu ritmo.*
+
+*Ultima atualizacao: Janeiro/2026*
