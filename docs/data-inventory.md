@@ -68,6 +68,25 @@
 
 ---
 
+### 04_Rota_Volta_Cenica.gpx
+
+| Atributo | Valor |
+|----------|-------|
+| **Tipo** | Track com waypoints |
+| **Descrição** | Retorno cênico alternativo via São José dos Ausentes |
+
+**Waypoints:**
+1. Bento Gonçalves - RS
+2. São José dos Ausentes - RS
+3. Vacaria - RS
+4. Lages - SC
+5. Curitiba - PR
+6. Goiânia - GO
+
+> **Alternativa cênica:** Paisagens incríveis, revisita a serra. ~1.700 km em 5 dias.
+
+---
+
 ## Planilha de Custos
 
 ### Roteiro_Tiger900_SerrasGauchas.xlsx
@@ -110,10 +129,20 @@ https://www.google.com/maps/dir/Gramado+RS/Vacaria+RS/Curitiba+PR/Londrina+PR/Go
 
 ## Assets Visuais
 
-| Arquivo | Tipo | Status |
-|---------|------|--------|
-| `logo_tiger900.png` | Logo | Placeholder (0 bytes) |
-| `mapa_preview.png` | Mapa | Placeholder (0 bytes) |
-| `rota_cenica.jpg` | Foto | Placeholder (0 bytes) |
+| Arquivo | Tipo | Descrição |
+|---------|------|-----------|
+| `logo_tiger900.png` | Logo | Logomarca da moto |
+| `mapa_preview.png` | Mapa | Visualização da rota completa |
+| `rota_cenica.jpg` | Foto | Imagem da Serra do Rio do Rastro |
 
-> **Nota:** Os arquivos de imagem estão como placeholders e precisam ser substituídos pelas imagens reais.
+---
+
+## Arquivos de Áudio
+
+| Arquivo | Formato | Descrição |
+|---------|---------|-----------|
+| `audio/ferias-01-17-2026 11.18.mp3` | MP3 | Notas de áudio da viagem |
+
+---
+
+*Atualizado em: 2026-01-17*

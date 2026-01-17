@@ -12,7 +12,7 @@ Repositório de planejamento e navegação para uma viagem de moto de 20 dias pe
 |----------|-------|
 | **Tipo de Projeto** | Repositório de Dados de Viagem |
 | **Período da Viagem** | 19/01/2026 → 02/02/2026 |
-| **Duração** | 20 dias |
+| **Duração** | 15 dias / 14 noites |
 | **Distância Estimada** | ~3.500 km |
 | **Veículo** | Triumph Tiger 900 Rally Pro 2025 |
 | **Autor** | Juliano M. Barbosa |

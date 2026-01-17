@@ -6,7 +6,7 @@
 
 - **Tipo:** Repositório de Dados de Viagem (monolith)
 - **Período:** 19/01/2026 → 02/02/2026
-- **Duração:** 20 dias
+- **Duração:** 15 dias / 14 noites
 - **Distância:** ~3.500 km
 - **Veículo:** Triumph Tiger 900 Rally Pro 2025
 
@@ -63,11 +63,12 @@
 
 ### Rotas GPX (para Garmin/GPS)
 
-| Arquivo | Descrição | Waypoints |
-|---------|-----------|-----------|
-| [Rota Completa](../Rotas_Tiger900RallyPro/01_Rota_Cenica_Completa.gpx) | Ida + Volta | 16 |
-| [Rota de Ida](../Rotas_Tiger900RallyPro/02_Rota_Ida_Cenica.gpx) | Cênica | 6 |
-| [Rota de Volta](../Rotas_Tiger900RallyPro/03_Rota_Volta_Asfaltada.gpx) | Asfaltada | 7 |
+| Arquivo | Descrição |
+|---------|-----------|
+| [Rota Completa](../Rotas_Tiger900RallyPro/01_Rota_Cenica_Completa.gpx) | Roteiro completo de 15 dias |
+| [Rota de Ida](../Rotas_Tiger900RallyPro/02_Rota_Ida_Cenica.gpx) | Trecho Goiânia → Urubici |
+| [Rota de Volta Asfaltada](../Rotas_Tiger900RallyPro/03_Rota_Volta_Asfaltada.gpx) | Retorno rápido (padrão) |
+| [Rota de Volta Cênica](../Rotas_Tiger900RallyPro/04_Rota_Volta_Cenica.gpx) | Retorno cênico (alternativa) |
 
 ### Planilha e Links
 

@@ -1,13 +1,13 @@
 {
   "workflow_version": "1.2.0",
   "timestamps": {
-    "started": "2025-12-28T18:42:00Z",
-    "last_updated": "2025-12-28T18:52:00Z"
+    "started": "2026-01-17T18:55:00Z",
+    "last_updated": "2026-01-17T19:15:00Z"
   },
-  "mode": "initial_scan",
-  "scan_level": "exhaustive",
-  "project_root": "/Users/juliano.barbosa/Repos/github/tiger900-serras-gauchas/.worktrees/add-fabric-guide",
-  "output_folder": "/Users/juliano.barbosa/Repos/github/tiger900-serras-gauchas/.worktrees/add-fabric-guide/docs",
+  "mode": "full_rescan",
+  "scan_level": "quick",
+  "project_root": "/Users/juliano.barbosa/Repos/github/tiger900-serras-gauchas",
+  "output_folder": "/Users/juliano.barbosa/Repos/github/tiger900-serras-gauchas/docs",
   "project_types": [
     {
       "part_id": "main",
@@ -19,89 +19,73 @@
     "name": "Triumph Tiger 900 Rally Pro – Serras Gaúchas Adventure 2026",
     "repository_type": "monolith",
     "primary_type": "data",
-    "technologies": ["GPX", "XLSX", "Markdown"],
-    "purpose": "Roteiro de viagem de moto de 20 dias pelas Serras Gaúchas",
+    "technologies": ["GPX", "XLSX", "Markdown", "MP3"],
+    "purpose": "Roteiro de viagem de moto de 15 dias pelas Serras Gaúchas",
     "period": "19/01/2026 - 02/02/2026"
   },
   "completed_steps": [
     {
       "step": "step_1",
       "status": "completed",
-      "timestamp": "2025-12-28T18:42:00Z",
+      "timestamp": "2026-01-17T18:56:00Z",
       "summary": "Classificado como monolith tipo data - repositório de dados de viagem"
     },
     {
       "step": "step_2",
       "status": "completed",
-      "timestamp": "2025-12-28T18:43:00Z",
-      "summary": "Encontrados 2 READMEs, 1 planilha, 3 GPX, 1 arquivo de links"
+      "timestamp": "2026-01-17T18:57:00Z",
+      "summary": "Encontrados 2 READMEs, 17 docs, 4 GPX, 1 planilha, 1 arquivo de áudio"
     },
     {
       "step": "step_3",
       "status": "completed",
-      "timestamp": "2025-12-28T18:44:00Z",
-      "summary": "Stack: GPX 1.1, XLSX, Markdown, Google Maps URLs"
-    },
-    {
-      "step": "step_4",
-      "status": "completed",
-      "timestamp": "2025-12-28T18:45:00Z",
-      "summary": "Análise condicional - projeto de dados, sem APIs/código"
+      "timestamp": "2026-01-17T18:58:00Z",
+      "summary": "Stack: GPX 1.1, XLSX, Markdown, Google Maps URLs, MP3"
     },
     {
       "step": "step_5",
       "status": "completed",
-      "timestamp": "2025-12-28T18:46:00Z",
-      "summary": "Árvore de fontes documentada"
-    },
-    {
-      "step": "step_6",
-      "status": "completed",
-      "timestamp": "2025-12-28T18:46:30Z",
-      "summary": "Guia de uso gerado (Garmin, My Triumph App)"
-    },
-    {
-      "step": "step_8",
-      "status": "completed",
-      "timestamp": "2025-12-28T18:47:00Z",
-      "summary": "Documentação de arquitetura/visão geral gerada"
+      "timestamp": "2026-01-17T19:00:00Z",
+      "summary": "Árvore de fontes atualizada com novo GPX e pasta de áudio"
     },
     {
       "step": "step_9",
       "status": "completed",
-      "timestamp": "2025-12-28T18:47:30Z",
-      "summary": "Documentação de suporte gerada"
+      "timestamp": "2026-01-17T19:10:00Z",
+      "summary": "Documentação de suporte atualizada"
     },
     {
       "step": "step_10",
       "status": "completed",
-      "timestamp": "2025-12-28T18:48:00Z",
-      "summary": "Índice mestre gerado"
+      "timestamp": "2026-01-17T19:12:00Z",
+      "summary": "Índice mestre atualizado"
+    },
+    {
+      "step": "step_12",
+      "status": "completed",
+      "timestamp": "2026-01-17T19:15:00Z",
+      "summary": "Workflow completo"
     }
   ],
-  "current_step": "step_11",
+  "current_step": "completed",
   "findings": {
     "project_classification": "Monolith data project - roteiro de viagem de moto",
-    "existing_docs": "2 READMEs encontrados",
-    "data_files": "3 GPX, 1 XLSX, 1 TXT com links",
-    "technology_stack": "GPX 1.1, Excel, Markdown, Google Maps"
+    "existing_docs": "17 documentos Markdown encontrados",
+    "data_files": "4 GPX, 1 XLSX, 1 TXT com links, 1 MP3",
+    "technology_stack": "GPX 1.1, Excel, Markdown, Google Maps, MP3",
+    "changes_since_last_scan": [
+      "Novo arquivo: 04_Rota_Volta_Cenica.gpx",
+      "Novo diretório: audio/",
+      "Novo arquivo: audio/ferias-01-17-2026 11.18.mp3",
+      "Duração corrigida: 15 dias (não 20)"
+    ]
   },
   "outputs_generated": [
     "project-scan-report.json",
-    "project-overview.md",
-    "source-tree-analysis.md",
-    "data-inventory.md",
-    "usage-guide.md",
-    "index.md",
-    "camping-option.md",
-    "checklist-viagem.md",
-    "roteiro-dia-a-dia.md",
-    "guia-emergencias.md",
-    "pontos-interesse.md",
-    "guia-gastronomico.md",
-    "manutencao-viagem.md",
-    "guia-clima.md",
-    "dicas-fotografia.md"
+    "project-overview.md (atualizado)",
+    "source-tree-analysis.md (atualizado)",
+    "data-inventory.md (atualizado)",
+    "index.md (atualizado)"
   ],
-  "resume_instructions": "Workflow completo - 15 documentos gerados"
+  "resume_instructions": "Workflow completo - documentação atualizada"
 }
